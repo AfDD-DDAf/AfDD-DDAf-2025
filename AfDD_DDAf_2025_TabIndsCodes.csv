@@ -1,0 +1,840 @@
+IndCode,Indicator (EN),Indicateur (FR)
+Population,Population (thousands),Population (en milliers)
+PPPGDP,Nominal gross domestic product in purchasing-power-parity dollars (millions),Produit intérieur brut nominal en dollars US en parité de pouvoir d'achat
+NGDPD,Gross domestic product in U.S. dollars (millions),Produit intérieur brut en dollars américains
+RealGDPGrowth,Real GDP growth (%),Croissance réelle du PIB (%)
+Inflation,Inflation (average consumer prices),"Inflation, prix moyens à la consommation"
+GINI,Gini coefficient (World Bank estimate),Coefficient de Gini (estimations de la Banque Mondiale)
+PovHC300,% of population in extreme poverty ($3.00 a day),% de la population en extrême pauvreté ($3.00 par jour)
+HDI,Human development index (HDI),Indice de développement humain (IDH)
+IHDI,Inequality-adjusted HDI (IHDI),IDH ajusté aux inégalités (IDHI)
+EmpPopTot,Total workers aged 15+,Nombre total de travailleurs âgés de 15 ans et plus
+Pop15PLTot,Total population aged 15+ (ILOSTAT),Population totale âgée de 15 ans et plus (ILOSTAT)
+InformRateAll,Percentage of informal employment in total employment,Pourcentage de l'emploi informel dans l'emploi total
+OwnAccount,Total workers aged 15+ classified as own-account workers,Total des travailleurs âgés de 15 ans et plus classés comme travailleurs à leur propre compte
+ContribFamily,Total workers aged 15+ classified as contributing family workers,Total des travailleurs âgés de 15 ans et plus classés comme travailleurs familiaux contributeurs
+EmpRateTot,Employment as a % of population 15+,Emploi en % de la population âgée de 15 ans et plus
+OwnAccountRate,Percentage of workers aged 15+ classified as own-account workers,Pourcentage de travailleurs âgés de 15 ans et plus classés comme travailleurs à leur propre compte
+ContribFamRate,Percentage of workers aged 15+ classified as contributing family workers,Pourcentage de travailleurs âgés de 15 ans et plus classés comme travailleurs familiaux contributeurs
+VulnRate,Percentage of workers aged 15+ in vulnerable employment,Pourcentage de travailleurs âgés de 15 ans et plus ayant un emploi vulnérable
+RlGDPPrCpGr,Real GDP Growth Per Capita (%),Croissance réelle du PIB par habitant (%)
+PopGrwth,Population growth (%),Croissance de la population (%)
+PopUrban,Urban Population (thousands),Population urbaine (milliers)
+PopRural,Rural Population (thousands),Population rurale (milliers)
+IntermCitPop,"Population living in urban agglomerations of 300,000 to 1 million inhabitants (thousands)","Population vivant dans des agglomérations urbaines de 300,000 à un million d'habitants (milliers)"
+IntermCitNum,"Number of urban agglomerations of 300,000 to 1 million inhabitants",Nombre d'agglomérations urbaines de 300 000 à un million d'habitants
+PrimCitPop,Population living in urban agglomerations of over 1 million inhabitants (thousands),Population vivant dans des agglomérations urbaines de plus d'un million d'habitants (milliers)
+PrimCitNum,Number of urban agglomerations of over 1 million inhabitants,Nombre d'agglomérations urbaines de plus d'un million d'habitants
+OldDepRatio,Old-age dependency ratio [Population aged 65+]/[Population aged 15-64]*100,Taux de dépendance des personnes âgées [Population âgée de 65 ans et plus]/[Population âgée de 15 à 64 ans]*100
+ChildDepRatio,Child dependency ratio [Population aged <15]/[Population aged 15-64]*100,Taux de dépendance des enfants à charge [Population âgée de <15 ans]/[Population âgée de 15 à 64 ans]*100
+TotDepRatio,Total dependency ratio (Child dependency ratio + Old-age dependency ratio),Taux de dépendance total (taux de dépendance des enfants à charge + taux de dépendance des personnes âgées)
+LitRt15T24,"Youth literacy rate, population 15-24 years, both sexes (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, les deux sexes (%)"
+LitRt15T24F,"Youth literacy rate, population 15-24 years, female (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, de sexe féminin (%)"
+LitRt15T24M,"Youth literacy rate, population 15-24 years, male (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, de sexe masculin (%)"
+LitRt15T24GPIA,"Youth literacy rate, population 15-24 years, adjusted gender parity index (GPIA)","Taux d'alphabétisation des jeunes de 15 à 24 ans, indice ajusté de parité entre les sexes (IPSA)"
+LitRt15T99,"Adult literacy rate, population 15+ years, both sexes (%)","Taux d'alphabétisation de la population âgée de 15 ans et plus, les deux sexes (%)"
+LitRt15T99F,"Adult literacy rate, population 15+ years, female (%)","Taux d'alphabétisation de la population âgée de 15 ans et plus, de sexe féminin (%)"
+LitRt15T99M,"Adult literacy rate, population 15+ years, male (%)","Taux d'alphabétisation de la population âgée de 15 ans et plus, de sexe masculin (%)"
+LitRt15T99GPIA,"Adult literacy rate, population 15+ years, adjusted gender parity index (GPIA)","Taux d'alphabétisation de la population âgée de 15 ans et plus, indice ajusté de parité hommes-femmes (IPSA)"
+Pop15PLFem,Total female population aged 15+ (ILOSTAT),Population féminine totale âgée de 15 ans et plus (ILOSTAT)
+Pop15PLMal,Total male population aged 15+ (ILOSTAT),Population masculine totale âgée de 15 ans et plus (ILOSTAT)
+EmpPopFemale,Total female workers aged 15+,Nombre total de travailleuses âgées de 15 ans et plus
+EmpPopMale,Total male workers aged 15+,Nombre total de travailleurs âgés de 15 ans et plus
+InformRateFem,"Percentage of informal employment in total employment, females","Pourcentage de l'emploi informel dans l'emploi total, femmes"
+InformRateMal,"Percentage of informal employment in total employment, males","Pourcentage de l'emploi informel dans l'emploi total, hommes"
+Employees,Total workers aged 15+ classified as employees,Total des travailleurs âgés de 15 ans et plus classés comme salariés
+Employers,Total workers aged 15+ classified as employers,Total des travailleurs âgés de 15 ans et plus classés comme employeurs
+EmpLMSEMP,Total people aged 25-54 who are employed,Nombre total de personnes âgées de 25 à 54 ans employées
+EmpLMSUNE,Total people aged 25-54 who are unemployed,Nombre total de personnes âgées de 25 à 54 ans au chômage
+EmpLMSEIP,Total people aged 25-54 who are outside the labour force,Nombre total de personnes âgées de 25 à 54 ans hors de la population active
+EmpLMSTOT,Total people aged 25-54,Nombre total de personnes âgées de 25 à 54 ans
+EmpRateFemale,"Employment as a % of population 15+, females","Emploi en % de la population âgée de 15 ans et plus, de sexe féminin"
+EmpRateMale,"Employment as a % of population 15+, males","Emploi en % de la population âgée de 15 ans et plus, de sexe masculin"
+EmployeesRate,Percentage of workers aged 15+ classified as employees,Pourcentage de travailleurs âgés de 15 ans et plus classés comme salariés
+EmployersRate,Percentage of workers aged 15+ classified as employers,Pourcentage de travailleurs âgés de 15 ans et plus classés comme employeurs
+EmpLMSEMPPct,Percentage of people aged 25-54 who are employed,Pourcentage de personnes âgées de 25 à 54 ans qui ont un emploi
+EmpLMSUNEPct,Percentage of people aged 25-54 who are unemployed,Pourcentage de personnes âgées de 25 à 54 ans au chômage
+EmpLMSEIPPct,Percentage of people aged 25-54 who are outside the labour force,Pourcentage de personnes âgées de 25 à 54 ans inactives
+CoaRent,Coal rents (% of GDP),Bénéfices tirés du charbon (% du PIB)
+ForRent,Forest rents (% of GDP),Bénéfices tirés des forêts (% du PIB)
+NGSRent,Natural gas rents (% of GDP),Bénéfices tirés du gaz (% du PIB)
+OilRent,Oil rents (% of GDP),Bénéfices tirés du pétrole (% du PIB)
+MinRent,Mineral rents (% of GDP),Bénéfices tirés des minéraux (% du PIB)
+TotNRRent,Total natural resources rents (% of GDP),Total des bénéfices tirés des ressources naturelles (% du PIB)
+AgrFrPGD,"Agriculture, hunting, forestry, fishing: value added (% of GDP)","Agriculture, chasse, sylviculture, pêche: valeur ajoutée (% du PIB)"
+MnIndPGD,"Mining, Manufacturing, Utilities: value added (% of GDP)","Mines, fabrication, services publics: valeur ajoutée (% du PIB)"
+CnstrPGD,Construction: value added (% of GDP),Construction: valeur ajoutée (% du PIB)
+TrdHsPGD,"Wholesale, retail trade, restaurants and hotels: value added (% of GDP)","Commerce de gros, commerce de détail, restaurants et hôtels: valeur ajoutée (% du PIB)"
+TnsCmPGD,"Transport, storage and communication: value added (% of GDP)","Transport, stockage et communication: valeur ajoutée (% du PIB)"
+OtherPGD,Other activities: value added (% of GDP),Autres activités: valeur ajoutée (% du PIB)
+ManufPGD,Manufacturing (included in industry): value added (% of GDP),Fabrication (incluse dans l'industrie): valeur ajoutée (% du PIB)
+TotVAPGD,Total Value Added,Valeur ajoutée totale
+AgrEmpPerTot,Employment in agriculture as a % of total,Emploi dans l'agriculture en % du total
+IndEmpPerTot,Employment in industry as a % of total,Emploi dans l'industrie en % du total
+SrvEmpPerTot,Employment in services as a % of total,Emploi dans les services en % du total
+ManfEmpPerTot,Employment in manufacturing (incl. in industry) as a % of total,Emploi dans le secteur manufacturier (y compris dans l'industrie) en % du total
+CnsExpPGD,Final consumption expenditure as a % of GDP,Dépense de consommation finale en % du PIB
+GFCFPGD,Gross fixed capital formation as a % of GDP,Formation brute de capital fixe en % du PIB
+InvChgPGD,Changes in inventories as a % of GDP,Variations des stocks en % du PIB
+FrgnBalPGD,Foreign balance as a % of GDP,Balance extérieur en % du PIB
+ImpGdsSrvPGD,Imports of goods and services as a % of GDP,Importations de biens et services en % du PIB
+ExpGdsSrvPGD,Exports of goods and services as a % of GDP,Exportations de biens et services en % du PIB
+CnsExpUSD,"Final consumption expenditure, current prices (millions of USD)","Dépenses de consommation finale, prix courants (millions USD)"
+InvChgUSD,"Changes in inventories, current prices (millions of USD)","Variation des stocks, prix courants (millions USD)"
+FrgnBalUSD,"Foreign balance, current prices (millions of USD)","Solde extérieur, prix courants (millions USD)"
+ImpGdsSrvUSD,"Imports of goods and services, current prices (millions of USD)","Importations de biens et services, prix courants (millions USD)"
+ExpGdsSrvUSD,"Exports of goods and services, current prices (millions of USD)","Exportations de biens et services, prix courants (millions USD)"
+IIPDILbPsPGD,"Direct investment liabilities, stock as a % of GDP","Passifs d’investissement direct, stock en % du PIB"
+BOPDIDebPGD,Direct investment debit/expenditure as a % of GDP,Débit/dépenses d’investissement direct en % du PIB
+IIPDIAsPsPGD,"Direct investment assets, stock as a % of GDP","Actifs d’investissement direct, stock en % du PIB"
+BOPDICrdPGD,Direct investment credit/revenue as a % of GDP,Crédit/revenus d’investissement direct en % du PIB
+IIPDILbPsUSD,"Direct investment liabilities, stock","Passifs d’investissement direct, stock"
+BOPDIDebUSD,Direct investment debit/expenditure,Débit/dépenses d’investissement direct
+IIPDIAsPsUSD,"Direct investment assets, stock","Actifs d’investissement direct, stock"
+BOPDICrdUSD,Direct investment credit/revenue,Crédit/revenus d’investissement direct
+ROIDebitLiab,Return on inward direct investment (debits over two-year average liabilities X 100),Rendement des investissements directs entrants (débits divisés par le passif moyen sur deux ans X 100)
+ROICredAsset,Return on outward direct investment (credits over two-year average assets X 100),Rendement des investissements directs sortants (crédits divisés par la moyenne des actifs sur deux ans X 100)
+UNCTADFDIPGD,Foreign Direct Investment (FDI) inflows as a % of GDP,Entrées d’investissements directs étrangers (IDE) en % du PIB
+PortfolioInFlPGD,Portfolio investment inflows as a % of GDP,Entrées des investissements de portefeuille en % du PIB
+ODAPGD,Net Official Development Assistance (ODA) inflows as a % of GDP,Entrées nettes d'aide publique au développement (APD) en % du PIB
+RemitPGD,Remittances inflows as a % of GDP,Entrées de transferts des migrants en % du PIB
+IMFFDIPGD,Foreign Direct Investment (FDI) inflows as a % of GDP - asset/liability IMF data,Entrées d’investissements directs étrangers (IDE) en % du PIB - Données actif/passif du FMI
+OtherInFlPGD,Other investment inflows as a % of GDP,Autres entrées d'investissement en % du PIB
+UNCTADFDI,Foreign Direct Investment (FDI) inflows (millions of USD),Entrées d’investissements directs étrangers (IDE) (millions de dollars US)
+ODA,Net Official Development Assistance (ODA) inflows (millions of USD),Entrées nettes d'aide publique au développement (APD) (millions de dollars US)
+Remit,Remittances inflows (millions of USD),Entrées de transferts des migrants (millions de dollars US)
+IGOVPGD,General government investment (gross fixed capital formation) as a % of GDP,Investissement des administrations publiques (formation brute de capital fixe) en % du PIB
+IPPPPGD,Public-private partnership (PPP) investment as a % of GDP,Investissements dans les partenariats public-privé (PPP) en % du PIB
+IPRIVPGD,Private investment (gross fixed capital formation) as a % of GDP,Investissement privé (formation brute de capital fixe) en % du PIB
+KGOVPGD,General government capital stock as a % of GDP,Stock de capital des administrations publiques en % du PIB
+KPPPPGD,Public-private partnership (PPP) capital stock as a % of GDP,Stock de capital des partenariats public-privé (PPP) en % du PIB
+KPRIVPGD,Private capital stock as a % of GDP,Stock de capital privé en % du PIB
+IGOVUSD,General government investment (gross fixed capital formation) (millions of USD),Investissement des administrations publiques (formation brute de capital fixe) (millions de dollars US)
+IPRIVUSD,Private investment (gross fixed capital formation) (millions of USD),Investissement privé (formation brute de capital fixe) (millions de dollars US)
+KGOVUSD,General government capital stock (millions of USD),Stock de capital des administrations publiques (millions de dollars US)
+KPPPUSD,Public-private partnership (PPP) capital stock (millions of USD),Stock de capital du partenariat public-privé (PPP) (millions de dollars)
+KPRIVUSD,Private capital stock (millions of USD),Stock de capital privé (millions de dollars US)
+GovRevPerGDP,General government revenue as a % of GDP,Recettes des administrations publiques en % du PIB
+TaxPerGDP,General government taxes as a % of GDP,Impôts des administrations publiques en % du PIB
+GovGrantsPerGDP,"General government revenue, grants as a % of GDP","Recettes des administrations publiques, dons en % du PIB"
+GovExpendPerGDP,General government expenditure as a % of GDP,Total des dépenses des administrations publiques en % du PIB
+GovGrossDebtPerGDP,General government gross debt as a % of GDP,Dette brute des administrations publiques en % du PIB
+GovRevUSD,General government revenue (millions of USD),Recettes des administrations publiques (millions de dollars US)
+TaxUSD,General government taxes (millions of USD),Impôts des administrations publiques (millions de dollars US)
+GovGrantsUSD,"General government revenue, grants (millions of USD)","Recettes des administrations publiques, dons (millions de dollars US)"
+GovExpendUSD,General government expenditure (millions of USD),Total des dépenses des administrations publiques (millions de dollars US)
+GovGrossDebtUSD,General government gross debt (millions of USD),Dette brute des administrations publiques (millions de dollars US)
+WBCWONNWTOW,National comprehensive wealth,Richesse nationale globale
+WBCWONCNSTNWTOW,National comprehensive wealth (constant 2019 USD),Richesse nationale globale (USD constants 2019)
+WBCWONPRDEX,Produced capital: excluding urban land,Capital produit : hors terrains urbains
+WBCWONCNSTPRDTO,Produced capital: total (constant 2019 USD),Capital produit : total (USD constants 2019)
+WBCWONPRDIN,Produced capital: including urban land,Capital produit : incluant terrains urbains
+WBCWONNWHCA,Human capital,Capital humain
+WBCWONCNSTNWHCA,Human capital (constant 2019 USD),Capital humain (USD constants 2019)
+WBCWONTOTL,Renewable capital: total,Capital renouvelable : total
+WBCWONCNSTTOTL,Renewable capital: total (constant 2019 USD),Capital renouvelable : total (USD constants 2019)
+WBCWONFTIM,Renewable capital: timber,Capital renouvelable : bois
+WBCWONCNSTFTIM,Renewable capital: timber (constant 2019 USD),Capital renouvelable : bois (USD constants 2019)
+WBCWONFSTC,"Renewable capital: forest recreation, hunting and fishing services","Capital renouvelable : services de loisirs forestiers, chasse et pêche"
+WBCWONCNSTFSTC,"Renewable capital: forest recreation, hunting and fishing services (constant 2019 USD)","Capital renouvelable : services de loisirs forestiers, chasse et pêche (USD constants 2019)"
+WBCWONFSTP,Renewable capital: nonwood forest protection ecosystem services,Capital renouvelable : services écosystémiques de protection forestière non ligneuse
+WBCWONCNSTFSTP,Renewable capital: nonwood forest protection ecosystem services (constant 2019 USD),Capital renouvelable : services écosystémiques de protection forestière non ligneuse (USD constants 2019)
+WBCWONFSTW,Renewable capital: forest water ecosystem services,Capital renouvelable : services écosystémiques liés à l’eau forestière
+WBCWONCNSTFSTW,Renewable capital: forest water ecosystem services (constant 2019 USD),Capital renouvelable : services écosystémiques liés à l’eau forestière (USD constants 2019)
+WBCWONMANG,Renewable capital: mangroves,Capital renouvelable : mangroves
+WBCWONCNSTMANG,Renewable capital: mangroves (constant 2019 USD),Capital renouvelable : mangroves (USD constants 2019)
+WBCWONFISH,Renewable capital: fisheries,Capital renouvelable : pêcheries
+WBCWONCNSTFISH,Renewable capital: fisheries (constant 2019 USD),Capital renouvelable : pêcheries (USD constants 2019)
+WBCWONAGRI,Renewable capital: agricultural land,Capital renouvelable : terres agricoles
+WBCWONCNSTAGRI,Renewable capital: agricultural land (constant 2019 USD),Capital renouvelable : terres agricoles (USD constants 2019)
+WBCWONCROP,Renewable capital: agricultural land - cropland,Capital renouvelable : terres agricoles - terres cultivées
+WBCWONPAST,Renewable capital: agricultural land - pastureland,Capital renouvelable : terres agricoles - pâturages
+WBCWONHYDR,Renewable capital: hydropower energy,Capital renouvelable : énergie hydroélectrique
+WBCWONCNSTHYDR,Renewable capital: hydropower energy (constant 2019 USD),Capital renouvelable : énergie hydroélectrique (USD constants 2019)
+WBCWONSSOI,Nonrenewable capital: total,Capital non renouvelable : total
+WBCWONCNSTSSOI,Nonrenewable capital: total (constant 2019 USD),Capital non renouvelable : total (USD constants 2019)
+WBCWONSAOI,Nonrenewable capital: oil,Capital non renouvelable : pétrole
+WBCWONCNSTSAOI,Nonrenewable capital: oil (constant 2019 USD),Capital non renouvelable : pétrole (USD constants 2019)
+WBCWONSAGA,Nonrenewable capital: natural gas,Capital non renouvelable : gaz naturel
+WBCWONCNSTSAGA,Nonrenewable capital: natural gas (constant 2019 USD),Capital non renouvelable : gaz naturel (USD constants 2019)
+WBCWONSACO,Nonrenewable capital: coal,Capital non renouvelable : charbon
+WBCWONCNSTSACO,Nonrenewable capital: coal (constant 2019 USD),Capital non renouvelable : charbon (USD constants 2019)
+WBCWONMINR,Nonrenewable capital: metals and mineralssub-indextotal,#N/A
+WBCWONCNSTMINR,Nonrenewable capital: metals and mineralssub-indextotal (constant 2019 USD),#N/A
+WBCWONMBAU,Nonrenewable capital: metals and minerals - bauxite,Capital non renouvelable : métaux et minéraux - bauxite
+WBCWONCNSTMBAU,Nonrenewable capital: metals and minerals - bauxite (constant 2019 USD),Capital non renouvelable : métaux et minéraux - bauxite (USD constants 2019)
+WBCWONMCOB,Nonrenewable capital: metals and minerals - cobalt,Capital non renouvelable : métaux et minéraux - cobalt
+WBCWONCNSTMCOB,Nonrenewable capital: metals and minerals - cobalt (constant 2019 USD),Capital non renouvelable : métaux et minéraux - cobalt (USD constants 2019)
+WBCWONMCOP,Nonrenewable capital: metals and minerals - copper,Capital non renouvelable : métaux et minéraux - cuivre
+WBCWONCNSTMCOP,Nonrenewable capital: metals and minerals - copper (constant 2019 USD),Capital non renouvelable : métaux et minéraux - cuivre (USD constants 2019)
+WBCWONMGOL,Nonrenewable capital: metals and minerals - gold,Capital non renouvelable : métaux et minéraux - or
+WBCWONCNSTMGOL,Nonrenewable capital: metals and minerals - gold (constant 2019 USD),Capital non renouvelable : métaux et minéraux - or (USD constants 2019)
+WBCWONMIRO,Nonrenewable capital: metals and minerals - iron ore,Capital non renouvelable : métaux et minéraux - minerai de fer
+WBCWONCNSTMIRO,Nonrenewable capital: metals and minerals - iron ore (constant 2019 USD),Capital non renouvelable : métaux et minéraux - minerai de fer (USD constants 2019)
+WBCWONMLEA,Nonrenewable capital: metals and minerals - lead,Capital non renouvelable : métaux et minéraux - plomb
+WBCWONCNSTMLEA,Nonrenewable capital: metals and minerals - lead (constant 2019 USD),Capital non renouvelable : métaux et minéraux - plomb (USD constants 2019)
+WBCWONMLIT,Nonrenewable capital: metals and minerals - lithium,Capital non renouvelable : métaux et minéraux - lithium
+WBCWONCNSTMLIT,Nonrenewable capital: metals and minerals - lithium (constant 2019 USD),Capital non renouvelable : métaux et minéraux - lithium (USD constants 2019)
+WBCWONMMOL,Nonrenewable capital: metals and minerals - molybdenum,Capital non renouvelable : métaux et minéraux - molybdène
+WBCWONCNSTMMOL,Nonrenewable capital: metals and minerals - molybdenum (constant 2019 USD),Capital non renouvelable : métaux et minéraux - molybdène (USD constants 2019)
+WBCWONMNIC,Nonrenewable capital: metals and minerals - nickel,Capital non renouvelable : métaux et minéraux - nickel
+WBCWONCNSTMNIC,Nonrenewable capital: metals and minerals - nickel (constant 2019 USD),Capital non renouvelable : métaux et minéraux - nickel (USD constants 2019)
+WBCWONMPHO,Nonrenewable capital: metals and minerals - phosphate,Capital non renouvelable : métaux et minéraux - phosphate
+WBCWONCNSTMPHO,Nonrenewable capital: metals and minerals - phosphate (constant 2019 USD),Capital non renouvelable : métaux et minéraux - phosphate (USD constants 2019)
+WBCWONMSIL,Nonrenewable capital: metals and minerals - silver,Capital non renouvelable : métaux et minéraux - argent
+WBCWONCNSTMSIL,Nonrenewable capital: metals and minerals - silver (constant 2019 USD),Capital non renouvelable : métaux et minéraux - argent (USD constants 2019)
+WBCWONMTIN,Nonrenewable capital: metals and minerals - tin,Capital non renouvelable : métaux et minéraux - étain
+WBCWONCNSTMTIN,Nonrenewable capital: metals and minerals - tin (constant 2019 USD),Capital non renouvelable : métaux et minéraux - étain (USD constants 2019)
+WBCWONMZIN,Nonrenewable capital: metals and minerals - zinc,Capital non renouvelable : métaux et minéraux - zinc
+WBCWONCNSTMZIN,Nonrenewable capital: metals and minerals - zinc (constant 2019 USD),Capital non renouvelable : métaux et minéraux - zinc (USD constants 2019)
+WBCWONNWNFA,Foreign assets,Actifs étrangers
+WBCWONCNSTNWNFA,Foreign assets (constant 2019 USD),Actifs étrangers (USD constants 2019)
+WBCWONNWNFL,Foreign liabilities,Passifs étrangers
+WBCWONCNSTNWNFL,Foreign liabilities (constant 2019 USD),Passifs étrangers (USD constants 2019)
+WBCWONNWDOW,Domestic comprehensive wealth index,Indice de richesse nationale globale
+WBCWONCNSTNWDOW,Domestic comprehensive wealth index (constant 2019 USD),Indice de richesse nationale globale (USD constants 2019)
+CountryArea,Country Area (thousands of ha),Superficie (milliers d'ha)
+LandArea,Land area (thousands of ha),Superficie des terres (milliers d'ha)
+ArtSurf,Artificial surfaces (including urban and associated areas) (thousands of ha),"Surfaces artificielles, y compris les zones urbaines et associées (milliers d'ha)"
+AgricLand,Agricultural land (thousands of ha),Terres agricoles (milliers d'ha)
+CropLand,Cropland (thousands of ha),Terres cultivées (milliers d'ha)
+ArabLand,Arable land (thousands of ha),Terres arables (milliers d'ha)
+ForestLand,Forest land (thousands of ha),Terres forestières (milliers d'ha)
+CarbStock,"Carbon stock in living biomass (forests, millions of tonnes)","Stock de carbone dans la biomasse vivante (forêts, millions de tonnes)"
+CrbStckChg,Carbon stock change in forests - kilotonnes of CO2 equivalent net emissions/removals,Variation des stocks de carbone dans les forêts - émissions/absoptions nettes en kilotonnes d'équivalent CO2
+GFCFUSD,"Gross fixed capital formation, current prices (millions of USD)","Formation brute de capital fixe, prix courants (millions USD)"
+ENVPDNMABPAR,"Ambient particulate matter, premature deaths","Particules dans l'air ambiant, décés prématurés"
+ENVPDPMABPAR,"Ambient particulate matter, premature deaths (per million population)","Particules dans l'air ambiant, décés prématurés (par million d'habitants)"
+ENVPDPTABPAR,"Ambient particulate matter, premature deaths (% of total)","Particules dans l'air ambiant, décés prématurés (% du total)"
+ENVWFPCABPAR,"Ambient particulate matter, welfare cost of premature deaths (USD per capita)","Particules dans l'air ambiant, coûts en bien-être des décés prématurés (dollars US par habitant)"
+ENVWFPGABPAR,"Ambient particulate matter, welfare cost of premature deaths (% of GDP)","Particules dans l'air ambiant, coûts en bien-être des décés prématurés (% of GDP)"
+ENVWFPTABPAR,"Ambient particulate matter, welfare cost of premature deaths (% of total)","Particules dans l'air ambiant, coûts en bien-être des décés prématurés (% du total)"
+ENVPDNMHHAIR,"HH air pollution (solid fuels), premature deaths","Pollution de l'air des ménages (combustibles solides), décés prématurés"
+ENVPDPTHHAIR,"HH air pollution (solid fuels), premature deaths (% of total)","Pollution de l'air des ménages (combustibles solides), décés prématurés (% du total)"
+ENVPDPMHHAIR,"HH air pollution (solid fuels), premature deaths (per million population)","Pollution de l'air des ménages (combustibles solides), décés prématurés (par million d'habitants)"
+ENVWFPGHHAIR,"HH air pollution (solid fuels), welfare cost of premature deaths (% of GDP)","Pollution de l'air des ménages (combustibles solides), coûts en bien-être des décés prématurés (% of GDP)"
+ENVWFPTHHAIR,"HH air pollution (solid fuels), welfare cost of premature deaths (% of total)","Pollution de l'air des ménages (combustibles solides), coûts en bien-être des décés prématurés (% du total)"
+ENVWFPCHHAIR,"HH air pollution (solid fuels), welfare cost of premature deaths (USD per capita)","Pollution de l'air des ménages (combustibles solides), coûts en bien-être des décés prématurés (dollars US par habitant)"
+ENVPDPMOCCAR,"Occupational carcinogens, premature deaths (per million population)","Cancérigens présents au travail, décés prématurés (par million d'habitants)"
+ENVPDPMAMBOZ,"Ambient Ozone, premature deaths (per million population)","Ozone troposphérique, décés prématurés (par million d'habitants)"
+ENVPDPMHGTMP,"High temperature, premature deaths (per million population)","Température élevée, décés prématurés (par million d'habitants)"
+ENVPDPMHGRMT,"Diet high in red meat, premature deaths (per million population)","Alimentation riche en viande rouge, décés prématurés (par million d'habitants)"
+ENVPDPMLWTMP,"Low temperature, premature deaths (per million population)","Basse température, décés prématurés (par million d'habitants)"
+ENVPDPMHGPMT,"Diet high in processed meat, premature deaths (per million population)","Alimentation riche en viande transformée<, décés prématurés (par million d'habitants)"
+ENVPDPMLEAD,"Lead, premature deaths (per million population)","Plomb, décés prématurés (par million d'habitants)"
+ENVPDPMHDWSH,"Handwashing facilities, premature deaths (per million population)","Installations de lavage des mains, décés prématurés (par million d'habitants)"
+ENVPDPMOCPAR,"Occupational air pollution, premature deaths (per million population)","Pollution de l'air présente au travail, décés prématurés (par million d'habitants)"
+ENVPDPMSHSMK,"Second-hand smoke, premature deaths (per million population)","Tabagisme passif, décés prématurés (par million d'habitants)"
+ENVPDPMRSRAD,"Residential radon, premature deaths (per million population)","Radon domestique, décés prématurés (par million d'habitants)"
+ENVPDPMUSFWT,"Unsafe water source, premature deaths (per million population)","Source d'eau insalubre, décés prématurés (par million d'habitants)"
+ENVPDPMUSFST,"Unsafe sanitation, premature deaths (per million population)","Assainissement dangereux, décés prématurés (par million d'habitants)"
+GHGSctAgric,GHG emissions from agriculture,Émissions de GES provenant de l’agriculture
+GHGSctBldng,GHG emissions from buildings,Émissions de GES provenant des bâtiments
+GHGSctFlExp,GHG emissions from fuel exploitation,Émissions de GES provenant de l’exploitation des combustibles
+GHGSctIndCb,GHG emissions from industrial combustion,Émissions de GES provenant de la combustion industrielle
+GHGSctPower,GHG emissions from power and heat plants,Émissions de GES provenant des centrales électriques et thermiques
+GHGSctPrcss,GHG emissions from industrial processes,Émissions de GES provenant des procédés industriels
+GHGSctTrnsp,GHG emissions from mobile combustion,Émissions de GES provenant de la combustion mobile
+GHGSctWaste,GHG emissions from waste disposal,Émissions de GES provenant de l’élimination des déchets
+GHGSctTotal,GHG emissions from all sectors,Émissions de GES provenant de tous les secteurs
+ElecAccPop,Population with access to electricity (thousands),Population ayant accès à l'électricité (milliers)
+ElecAccUrbPop,Urban population with access to electricity (thousands),Population urbaine ayant accès à l'électricité (milliers)
+ElecAccRurPop,Rural population with access to electricity (thousands),Population rurale ayant accès à l'électricité (milliers)
+ElecAccPct,Percentage of population with access to electricity,Pourcentage de la population ayant accès à l'électricité
+ElecAccUrbPct,Percentage of urban population with access to electricity,Pourcentage de la population urbaine ayant accès à l'électricité
+ElecAccRurPct,Percentage of rural population with access to electricity,Pourcentage de la population rurale ayant accès à l'électricité
+PUBFINSOLAR,Public flows into solar power in millions of 2020 USD,Flux publics vers l'énergie solaire en millions de dollars US de 2020
+PUBFINWIND,Public flows into wind power in millions of 2020 USD,Flux publics vers l'énergie éolienne en millions de dollars US de 2020
+PUBFINGEO,Public flows into geothermal energy in millions of 2020 USD,Flux publics vers l'énergie géothermique en millions de dollars US de 2020
+PUBFINHYDRO,Public flows into renewable hydropower in millions of 2020 USD,Flux publics vers l'hydroélectricité renouvelable en millions de dollars US de 2020
+PUBFINBIOF,Public flows into biofuels in millions of 2020 USD,Flux publics vers les biocarburants en millions de dollars US de 2020
+PUBFINOTHREN,Public flows into renewable energy n.e.s. in millions of 2020 USD,Flux publics vers les énergies renouvelables n.d.a. en millions de dollars US de 2020
+PUBFINPUMP,Public flows into pumped storage in millions of 2022 USD,Flux publics vers le stockage par pompage en millions USD 2022
+PUBFINNUCL,Public flows into nuclear power in millions of 2020 USD,Flux publics vers le nucléaire en millions de dollars US de 2020
+PUBFINFOSS,Public flows into fossil fuels in millions of 2020 USD,Flux publics vers les combustibles fossiles en millions de dollars US de 2020
+ELECCAPSOLAR,Installed electricity capacity from solar power in megawatts (MW),Capacité installée d'électricité solaire en mégawatts (MW)
+ELECCAPWIND,Installed electricity capacity from wind power in megawatts (MW),Capacité installée d'électricité éolienne en mégawatts (MW)
+ELECCAPGEO,Installed electricity capacity from geothermal energy in megawatts (MW),Capacité installée d'électricité géothermique en mégawatts (MW)
+ELECCAPHYDRO,Installed electricity capacity from renewable hydropower in megawatts (MW),Capacité installée d'électricité hydroélectrique renouvelable en mégawatts (MW)
+ELECCAPBIOF,Installed electricity capacity from biofuels in megawatts (MW),Capacité installée d'électricité à partir de biocarburants en mégawatts (MW)
+ELECCAPOTHREN,Installed electricity capacity from renewable energy n.e.s. in megawatts (MW),Capacité installée d'électricité renouvelables n.d.a. en mégawatts (MW)
+ELECCAPNUCL,Installed electricity capacity from nuclear power in megawatts (MW),Capacité installée d'électricité nucléaire en mégawatts (MW)
+ELECCAPPUMP,Installed electricity capacity from pumped storage in megawatts (MW),Capacité installée d'électricité du pompage-turbinage en mégawatts (MW)
+ELECCAPFOSS,Installed electricity capacity from fossil fuels in megawatts (MW),Capacité installée d'électricité à partir de combustibles fossiles en mégawatts (MW)
+ELECGENSOLAR,Electricity generation from solar power in gigawatt-hours (GWh),Production d'électricité solaire en gigawatt-heures (GWh)
+ELECGENWIND,Electricity generation from wind power in gigawatt-hours (GWh),Production d'électricité éolienne en gigawatt-heures (GWh)
+ELECGENGEO,Electricity generation from geothermal energy in gigawatt-hours (GWh),Production d'électricité géothermique en gigawatt-heures (GWh)
+ELECGENHYDRO,Electricity generation from renewable hydropower in gigawatt-hours (GWh),Production d'énergie hydroélectrique renouvelable en gigawatt-heures (GWh)
+ELECGENBIOF,Electricity generation from biofuels in gigawatt-hours (GWh),Production d'électricité à partir de biocarburants en gigawatt-heures (GWh)
+ELECGENOTHREN,Electricity generation from renewable energy n.e.s. in gigawatt-hours (GWh),Production d'électricité renouvelables n.d.a. en gigawatt-heures (GWh)
+ELECGENNUCL,Electricity generation from nuclear power in gigawatt-hours (GWh),Production d'électricité nucléaire en gigawatt-heures (GWh)
+ELECGENPUMP,Electricity generation from pumped storage in gigawatt-hours (GWh),Production d'électricité par pompage-turbinage en gigawatt-heures (GWh)
+ELECGENFOSS,Electricity generation from fossil fuels in gigawatt-hours (GWh),Production d'électricité à partir de combustibles fossiles en gigawatt-heures (GWh)
+ElcMxBsObLrgFm,Percentage of large firms choosing electricity as their biggest obstacle,Pourcentage de grandes entreprises considérant l’électricité comme principal obstacle
+OwnWSitLrgFm,Percentage of large firms using their own website,Pourcentage de grandes entreprises utilisant leur propre site Web
+ElcMxBsObMedFm,Percentage of medium-sized firms choosing electricity as their biggest obstacle,Pourcentage d’entreprises moyennes considérant l’électricité comme principal obstacle
+OwnWSitMedFm,Percentage of medium-sized firms using their own website,Pourcentage d'entreprises de taille moyenne utilisant leur propre site Web
+ElcMxBsObSmlFm,Percentage of small firms choosing electricity as their biggest obstacle,Pourcentage de petites entreprises considérant l’électricité comme principal obstacle
+OwnWSitSmlFm,Percentage of small firms using their own website,Pourcentage de petites entreprises utilisant leur propre site Web
+ElcMxBsOb,Percentage of firms of all sizes choosing electricity as their biggest obstacle,Pourcentage d’entreprises de toutes tailles considérant l’électricité comme principal obstacle
+OwnWSit,Percentage of firms of all sizes using their own website,Pourcentage d’entreprises de toutes tailles utilisant leur propre site web
+AvgElcSalLrgFm,Average proportion of sales of large firms paid by customers electronically,Proportion moyenne des ventes des grandes entreprises payées électroniquement
+AvgElcSalMedFm,Average proportion of sales of medium-sized firms paid by customers electronically,Proportion moyenne des ventes des entreprises moyennes payées électroniquement
+AvgElcSalSmlFm,Average proportion of sales of small firms paid by customers electronically,Proportion moyenne des ventes des petites entreprises payées électroniquement
+AvgElcSal,Average proportion of sales of firms of all sizes paid by customers electronically,Proportion moyenne des ventes des entreprises de toutes tailles payées électroniquement
+AvgElcPay,Average proportion of payments by firms made electronically,Proportion moyenne des paiements effectués électroniquement par les entreprises
+PctElcTxFl,Percentage of firms filing taxes electronically,Pourcentage d’entreprises déclarant leurs impôts électroniquement
+PctElcTxPy,Percentage of firms paying taxes electronically,Pourcentage d’entreprises payant leurs impôts électroniquement
+MjBsObCor,Percentage of firms identifying corruption as a major or very severe constraint,Pourcentage d’entreprises identifiant la corruption comme contrainte majeure ou très sévère
+MjBsObCrt,Percentage of firms identifying the courts as a major or very severe constraint,Pourcentage d’entreprises identifiant les tribunaux comme contrainte majeure ou très sévère
+MjBsObFin,Percentage of firms identifying access to finance as a major or very severe constraint,Pourcentage d’entreprises identifiant l’accès au financement comme contrainte majeure ou très sévère
+MjBsObInf,Percentage of firms identifying practices of competitors in the informal sector as a major or very severe constraint,Pourcentage d’entreprises identifiant les pratiques des concurrents informels comme contrainte majeure ou très sévère
+MjBsObElc,Percentage of firms identifying electricity as a major or very severe constraint,Pourcentage d’entreprises identifiant l’électricité comme contrainte majeure ou très sévère
+MjBsObTrs,Percentage of firms identifying transportation as a major or very severe constraint,Pourcentage d’entreprises identifiant le transport comme contrainte majeure ou très sévère
+MjBsObLic,Percentage of firms identifying business licensing and permits as a major or very severe constraint,Pourcentage d’entreprises identifiant les licences et permis comme contrainte majeure ou très sévère
+MjBsObLnd,Percentage of firms identifying access to land as a major or very severe constraint,Pourcentage d’entreprises identifiant l’accès au foncier comme contrainte majeure ou très sévère
+MjBsObTxR,Percentage of firms identifying tax rates as a major or very severe constraint,Pourcentage d’entreprises identifiant les taux d’imposition comme contrainte majeure ou très sévère
+MjBsObTxA,Percentage of firms identifying tax administration as a major or very severe constraint,Pourcentage d’entreprises identifiant l’administration fiscale comme contrainte majeure ou très sévère
+MjBsObTrd,Percentage of firms identifying customs and trade regulations as a major or very severe constraint,Pourcentage d’entreprises identifiant les réglementations douanières et commerciales comme contrainte majeure ou très sévère
+MjBsObLRg,Percentage of firms identifying labor regulations as a major or very severe constraint,Pourcentage d’entreprises identifiant les réglementations du travail comme contrainte majeure ou très sévère
+MjBsObEdu,Percentage of firms identifying an inadequately educated workforce as a major or very severe constraint,Pourcentage d’entreprises identifiant une main-d’œuvre insuffisamment formée comme contrainte majeure ou très sévère
+DEVInfrRdsDns,Road density (km of road per km2 of land area),Densité routière (km de route par km² de surface)
+DEVInfrRlsDns,Rail density (km of rail per km2 of land area),Densité ferroviaire (km de rail par km² de surface)
+DEVInfrCblDns,ICT cables density (km of cable per km2 of land area),Densité des câbles TIC (km de câble par km² de surface)
+DEVInfrElcDns,Electricity density,Densité électrique
+DEVInfrWtrDns,Water sanitation density (number of plants),Densité des installations d’assainissement (nombre d’usines)
+DEVInfrPrtDns,Container port throughput (twenty foot equivalent unit - TEU),Trafic portuaire en conteneurs (équivalent vingt pieds - EVP)
+DEVInfrRdsSpd,Average road speed,Vitesse moyenne sur route
+DEVInfrIntSpd,Average download speed,Vitesse moyenne de téléchargement
+DEVInfrRlsScr,Railway quality score,Indice de qualité ferroviaire
+DEVInfrElcLss,Electricity transmission losses,Pertes de transmission électrique
+DEVInfrWtrLss,Water infrastructure losses,Pertes dans les infrastructures hydrauliques
+DEVInfrWtrAcc,Access to drinking water (% of population),Accès à l’eau potable (% de la population)
+DEVInfrIntAcc,Access to Internet (% of population),Accès à Internet (% de la population)
+DEVInfrElcAcc,Access to electricity (% of population),Accès à l’électricité (% de la population)
+DEVInfrRurAcc,Rural Access Index (RAI),Indice d’accès rural (RAI)
+TotalFinInflowsPGD,Total financial inflows as a % of GDP,Entrées financières totales en % du PIB
+PPIENGYPGD,Investment in energy with private participation as a % of GDP,Investissement dans l’énergie avec participation privée en % du PIB
+PPIICTIPGD,Investment in ICT with private participation as a % of GDP,Investissement dans les TIC avec participation privée en % du PIB
+PPITRANPGD,Investment in transport with private participation as a % of GDP,Investissement dans le transport avec participation privée en % du PIB
+PPIWATRPGD,Investment in water and sanitation with private participation as a % of GDP,Investissement dans l’eau et l’assainissement avec participation privée en % du PIB
+PPIENGYUSD,Investment in energy with private participation (millions of USD),Investissement dans l’énergie avec participation privée (millions USD)
+PPIICTIUSD,Investment in ICT with private participation (millions of USD),Investissement dans les TIC avec participation privée (millions USD)
+PPITRANUSD,Investment in transport with private participation (millions of USD),Investissement dans le transport avec participation privée (millions USD)
+PPIWATRUSD,Investment in water and sanitation with private participation (millions of USD),Investissement dans l’eau et l’assainissement avec participation privée (millions USD)
+ODADsbWtSn,Net ODA disbursements to water supply & sanitation (millions of USD),Versements nets d’APD à l’approvisionnement en eau et à l’assainissement (millions USD)
+ODADsbWtSnEdu,Net ODA disbursements to education and training in water supply and sanitation (millions of USD),Versements nets d’APD à l’éducation et à la formation dans l’approvisionnement en eau et l’assainissement (millions USD)
+ODADsbTrSt,Net ODA disbursements to transport and storage (millions of USD),Versements nets d’APD au transport et à l’entreposage (millions USD)
+ODADsbTrStEdu,Net ODA disbursements to education and training in transport and storage (millions of USD),Versements nets d’APD à l’éducation et à la formation dans le transport et l’entreposage (millions USD)
+ODADsbComm,Net ODA disbursements to communications sector (millions of USD),Versements nets d’APD au secteur des communications (millions USD)
+ODADsbCommEdu,"Net ODA disbursements to education and training in ICT, telecommunications and media (millions of USD)","Versements nets d’APD à l’éducation et à la formation dans les TIC, télécommunications et médias (millions USD)"
+ODADsbEnrg,Net ODA disbursements to energy (millions of USD),Versements nets d’APD à l’énergie (millions USD)
+ODADsbEnrgEdu,Net ODA disbursements to energy education/training (millions of USD),Versements nets d’APD à l’éducation/formation en énergie (millions USD)
+ODADsbEnrgRnw,"Net ODA disbursements to energy generation, renewable sources (millions of USD)","Versements nets d’APD à la production d’énergie, sources renouvelables (millions USD)"
+ODADsbEnrgNnr,"Net ODA disbursements to energy generation, non-renewable sources (millions of USD)","Versements nets d’APD à la production d’énergie, sources non renouvelables (millions USD)"
+ODADsbEnrgNuc,Net ODA disbursements to nuclear energy plants (millions of USD),Versements nets d’APD aux centrales nucléaires (millions USD)
+ODADsbEnrgDst,Net ODA disbursements to energy distribution (millions of USD),Versements nets d’APD à la distribution d’énergie (millions USD)
+HlthExpPGD,Current health expenditure (% of GDP),Dépenses courantes de santé (% du PIB)
+HlthExpPGDExt,External health expenditure (% of GDP),Dépenses externes de santé (% du PIB)
+HlthExpPGDPub,Domestic general government health expenditure (% of GDP),Dépenses de santé des administrations publiques nationales (% du PIB)
+HlthExpPGDPrv,Domestic private health expenditure (% of GDP),Dépenses nationales de santé privées par habitant (% du PIB)
+AdjSvGNSPGD,Gross savings as a % of GDP,Épargne brute en % du PIB
+AdjSvCFCPGD,Adjusted savings: consumption of fixed capital (% of GDP),Épargne ajustée : consommation de capital fixe (% du PIB)
+AdjSvNNSPGD,Adjusted savings: net national savings (% of GDP),Épargne ajustée : épargne nationale nette (% du PIB)
+AdjSvEDUPGD,Adjusted savings: education expenditure (% of GDP),Épargne ajustée : dépenses d'éducation (% du PIB)
+AdjSvENDPGD,Adjusted savings: energy depletion (% of GDP),Épargne ajustée : épuisement énergétique (% du PIB)
+AdjSvMIDPGD,Adjusted savings: mineral depletion (% of GDP),Épargne ajustée : épuisement des ressources minérales (% du PIB)
+AdjSvNFDPGD,Adjusted savings: net forest depletion (% of GDP),Épargne ajustée : épuisement net des forêts (% du PIB)
+AdjSvCO2PGD,Adjusted savings: carbon dioxide damage (% of GDP),Épargne ajustée : dommages causés par le dioxyde de carbone (% du PIB)
+AdjSvPOLPGD,Adjusted savings: particulate emission damage (% of GDP),Épargne ajustée : dommages causés par les émissions de particules (% du PIB)
+AdjSvANSPGD,"Adjusted net savings, including particulate emission damage (% of GDP)","Épargne nette ajustée, y compris les dommages causés par les émissions de particules (% du PIB)"
+AdjSvANSNOPARPGD,"Adjusted net savings, excluding particulate emission damage (current US$)","Épargne nette ajustée, excluant les dommages causés par les émissions de particules (% du PIB)"
+PovHC400,% of population below LMIC poverty rates ($4.00 a day),"% de la population vivant sous $4.00 par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche inférieure"
+PovHC830,% of population below UMIC poverty rates ($8.30 a day),"% de la population vivant sous $8.30 par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche supérieure"
+ShareTop20,Income share held by the 20% of the population with highest incomes,Part des revenus détenus par les 20% de la population ayant les revenus les plus élevés (estimation de la Banque mondiale)
+WrkPovRate15PL,"Working poverty rate, both sexes (population 15+)","Taux de pauvreté des travailleurs, les deux sexes (population de 15 ans et plus)"
+WrkPovRateFem15PL,"Working poverty rate, females (population 15+)","Taux de pauvreté des travailleurs, de sexe féminin (population de 15 ans et plus)"
+WrkPovRateMal15PL,"Working poverty rate, males (population 15+)","Taux de pauvreté des travailleurs, de sexe masculin (population de 15 ans et plus)"
+WrkPovRate1529,"Working poverty rate, both sexes (population 15-29)","Taux de pauvreté des travailleurs, les deux sexes (population de 15 à 29 ans)"
+WrkPovRateFem1529,"Working poverty rate, females (population 15-29)","Taux de pauvreté des travailleurs, de sexe féminin (population de 15 à 29 ans)"
+WrkPovRateMal1529,"Working poverty rate, males (population 15-29)","Taux de pauvreté des travailleurs, de sexe masculin (population de 15 à 29 ans)"
+OutputPerWrkPPP,Output per worker (GDP constant 2017 international $ in PPP),Production par travailleur (PIB en dollars internationaux constants de 2017 en PPA)
+PHDI,Planetary pressures-adjusted HDI (PHDI),IDH ajusté aux pressions planétaires (PHDI)
+MDPIIndex,Multidimensional Povery Index (MDPI),Indice de pauvreté multidimensionnelle (MDPI)
+GDI,Gender Development Index (GDI),Indice de développement de genre (IDG)
+GII,Gender Inequality Index (GII),L'Indice d'inégalité de genre (IIG)
+SIGI,Social Institutions and Gender Index (SIGI),Indicateur Institutions Sociales et Égalité Femmes-Hommes (SIGI)
+SIGIFAM,Discrimination in the family (SIGI subindex),Discriminations au sein de la famille (sous-indice SIGI)
+SIGIPHYS,Restricted physical integrity (SIGI subindex),Atteintes à l'intégrité physique (sous-indice SIGI)
+SIGIRES,Restricted access to productive and financial resources (SIGI subindex),Accès restreint aux ressources productives et financières (sous-indice SIGI)
+SIGICIV,Restricted civil liberties (SIGI subindex),Atteintes aux libertés civiles (sous-indice SIGI)
+LifeExpTot,Life expectancy at birth (years),Espérance de vie à la naissance (années)
+LifeExpMal,Male life expectancy at birth (years),Espérance de vie des hommes à la naissance (années)
+LifeExpFem,Female life expectancy at birth (years),Espérance de vie des femmes à la naissance (années)
+TotFert,Total fertility (live births per woman),Taux de fécondité (naissances vivantes par femme)
+Mort01,"Infant mortality rate (infant deaths per 1,000 live births)","Taux de mortalité infantile (décès infantiles pour 1,000 naissances vivantes)"
+Mort05,"Under-five mortality (deaths under age five per 1,000 live births)","Mortalité des moins de cinq ans (décès des moins de cinq ans pour 1,000 naissances vivantes)"
+Mort40,"Probability of dying before age 40 (deaths under age 40 per 1,000 live births)",Probabilité de mourir avant 40 ans (morts avant l'âge de 40 ans pour 1 000 naissances vivantes)
+GHI,Global Hunger Index,Indice de la faim dans le monde
+LifeLadder,Cantril life ladder,Échelle de satisfaction existentielle Cantril
+FreedomLife,Freedom to make life choices,Liberté de faire des choix de vie
+Generosity,Generosity,Générosité
+SocialSupp,Social support,Soutien sociale
+ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions de dollars US)
+ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions de dollars US)
+ExpFullyProc,Total exports of fully processed goods (millions of USD),Exportations totales de produits transformés (millions de dollars US)
+ExpAllProc,Total exports of processed and unprocessed goods (millions of USD),Exportations totales de produits transformés et non transformés (millions de dollars US)
+ImpUnproc,Total imports of unprocessed goods (millions of USD),Importations totales de produits non transformés (millions de dollars US)
+ImpSemiProc,Total imports of semi-processed goods (millions of USD),Importations totales de produits semi-transformés (millions de dollars US)
+ImpFullyProc,Total imports of fully processed goods (millions of USD),Importations totales de produits transformés (millions de dollars US)
+ImpAllProc,Total imports of processed and unprocessed goods (millions of USD),Importations totales de produits transformés et non transformés (millions de dollars US)
+NumPrdU75,Number of products amounting to 75% of total exports,Nombre de produits exportés représentant 75% des exportations totales
+NumPrdU90,Number of products amounting to 90% of total exports,Nombre de produits exportés représentant 90% des exportations totales
+TotExpPerGDP,Value of total exports of goods and services as a % of GDP,Valeur totale des exportations de biens et services en % du PIB
+ExpToREC,"Exports to countries in same REC, in USD","Exportations vers les pays de la même CER, en USD"
+ExpToAUCReg,"Exports to countries in same AUC Region, in USD","Exportations vers les pays de la même région UA, en USD"
+ExpToCont,"Exports to countries in same continent, in USD","Exportations vers les pays du même continent, en USD"
+ExpToCHN,"Exports to China, in USD","Exportations vers la Chine, en USD"
+ExpToEU,"Exports to EU countries, in USD","Exportations vers les pays de l’UE, en USD"
+ExpToUSA,"Exports to USA, in USD","Exportations vers les États-Unis, en USD"
+ExpToWorld,"Total exports, in USD","Exportations totales, en USD"
+ImpFrREC,"Imports from countries in same REC, in USD","Importations en provenance des pays de la même CER, en USD"
+ImpFrAUCReg,"Imports from countries in same AUC Region, in USD","Importations en provenance des pays de la même région UA, en USD"
+ImpFrCont,"Imports from countries in same continent, in USD","Importations en provenance des pays du même continent, en USD"
+ImpFrCHN,"Imports from China, in USD","Importations en provenance de Chine, en USD"
+ImpFrEU,"Imports from EU countries, in USD","Importations en provenance des pays de l’UE, en USD"
+ImpFrUSA,"Imports from USA, in USD","Importations en provenance des États-Unis, en USD"
+ImpFrWorld,"Total imports, in USD","Importations totales, en USD"
+IntToCont,Intermediate goods traded with countries in same continent (millions of USD),Biens intermédiaires échangés avec les pays du même continent (millions USD)
+IntToWld,Total volume of trade in intermediate goods (millions of USD),Volume total des échanges de biens intermédiaires (millions USD)
+RECExpPct,"Exports to countries in same REC, as a % of total exports","Exportations vers les pays de la même CER, en % du total des exportations"
+AUCRegExpPct,"Exports to countries in same AUC Region, as a % of total exports","Exportations vers les pays de la même région de la CUA, en % du total des exportations"
+ContExpPct,"Exports to countries in same continent, as a % of total exports","Exportations vers les pays du même continent, en % du total des exportations"
+CHNExpPct,"Exports to China, as a % of total exports","Exportations vers la Chine, en % du total des exportations"
+EUExpPct,"Exports to EU countries, as a % of total exports","Exportations vers les pays de l'UE, en % du total des exportations"
+USAExpPct,"Exports to USA, as a % of total exports","Exportations vers les États-Unis, en % du total des exportations"
+RECImpPct,"Imports from countries in same REC, as a % of total imports","Importations provenant des pays de la même CER, en % du total des importations"
+AUCRegImpPct,"Imports from countries in same AUC Region, as a % of total imports","Importations provenant des pays de la même région de la CUA, en % du total des importations"
+ContImpPct,"Imports from countries in same continent, as a % of total imports","Importations provenant des pays du même continent, en % du total des importations"
+CHNImpPct,"Imports from China, as a % of total imports","Importations provenant de la Chine, en % du total des importations"
+EUImpPct,"Imports from EU countries, as a % of total imports","Importations provenant des pays de l'UE, en % du total des importations"
+USAImpPct,"Imports from USA, as a % of total imports","Importations provenant des États-Unis, en % du total des importations"
+IntraCont,Intra-continental trade in intermediate goods (millions of USD),Commerce intra-continental de biens intermédiaires (millions de dollars US)
+ExtraCont,Extra-continental trade in intermediate goods (millions of USD),Commerce extra-continental de biens intermédiaires (millions de dollars US)
+PercIntra,Intra-continental trade in intermediate goods as a % of all trade in intermediate goods,Commerce intra-continental de biens intermédiaires en % du total des échanges de biens intermédiaires
+VASameCtry,Total value of national exports originating domestically (millions of USD),Valeur totale des exportations nationales originaires du pays (millions de dollars US)
+BkwdVA,Total foreign added value embedded in national exports (millions of USD),Valeur ajoutée étrangère totale intégrée dans les exportations nationales (millions de dollars US)
+BkwdVABordCtry,Total added value from neighbouring countries embedded in national exports (millions of USD),Valeur ajoutée totale des pays voisins intégrée dans les exportations nationales (millions de dollars US)
+BkwdVASameAUCReg,Total added value from countries within the same AUC region embedded in national exports (millions of USD),Valeur ajoutée totale des pays de la même région de la CUA intégrée dans les exportations nationales (millions de dollars US)
+BkwdVASameCont,Total added value from countries within the same continent embedded in national exports (millions of USD),Valeur ajoutée totale des pays d'un même continent intégrée dans les exportations nationales (millions de dollars US)
+BkwdVAExtraCont,Total added value from outside the continent embedded in national exports (millions of USD),Valeur ajoutée totale de l'extérieur du continent intégrée dans les exportations nationales (millions de dollars US)
+FrwdVA,Total value of national exports embedded in foreign exports (millions of USD),Valeur totale des exportations nationales incorporées dans les exportations étrangères (millions de dollars US)
+FrwdVABordCtry,Total value of national exports embedded in exports of neighbouring countries (millions of USD),Valeur totale des exportations nationales intégrées dans les exportations des pays voisins (millions de dollars US)
+FrwdVASameAUCReg,Total value of national exports embedded in exports of countries within the same AUC region (millions of USD),Valeur totale des exportations nationales intégrées dans les exportations des pays de la même région de la CUA (millions de dollars US)
+FrwdVASameCont,Total value of national exports embedded in exports of countries within the same continent (millions of USD),Valeur totale des exportations nationales intégrées dans les exportations des pays d'un même continent (millions de dollars US)
+FrwdVAExtraCont,Total value of national exports embedded in exports of countries in other continents (millions of USD),Valeur totale des exportations nationales incorporées dans les exportations des pays d'autres continents (millions de dollars US)
+VASameCtryPGD,Total value of national exports originating domestically (% of GDP),Valeur totale des exportations nationales d'origine nationale (% du PIB)
+BkwdVAPGD,Total foreign added value embedded in national exports (% of GDP),Valeur ajoutée étrangère totale incorporée dans les exportations nationales (% du PIB)
+BkwdVABordCtryPGD,Total added value from neighbouring countries embedded in national exports (% of GDP),Valeur ajoutée totale des pays voisins intégrée dans les exportations nationales (% du PIB)
+BkwdVASameAUCRegPGD,Total added value from countries within the same AUC region embedded in national exports (% of GDP),Valeur ajoutée totale des pays de la même région de la CUA intégrée dans les exportations nationales (% du PIB)
+BkwdVASameContPGD,Total added value from countries within the same continent embedded in national exports (% of GDP),Valeur ajoutée totale des pays d'un même continent intégrée dans les exportations nationales (% du PIB)
+BkwdVAExtraContPGD,Total added value from outside the continent embedded in national exports (% of GDP),Valeur ajoutée totale de l'extérieur du continent intégrée dans les exportations nationales (% du PIB)
+FrwdVAPGD,Total value of national exports embedded in foreign exports (% of GDP),Valeur totale des exportations nationales incorporées dans les exportations étrangères (% du PIB)
+FrwdVABordCtryPGD,Total value of national exports embedded in exports of neighbouring countries (% of GDP),Valeur totale des exportations nationales incorporée dans les exportations des pays voisins (% du PIB)
+FrwdVASameAUCRegPGD,Total value of national exports embedded in exports of countries within the same AUC region (% of GDP),Valeur totale des exportations nationales intégrées dans les exportations des pays de la même région de la CUA (% du PIB)
+FrwdVASameContPGD,Total value of national exports embedded in exports of countries within the same continent (% of GDP),Valeur totale des exportations nationales incorporées dans les exportations des pays d'un même continent (% du PIB)
+FrwdVAExtraContPGD,Total value of national exports embedded in exports of countries in other continents (% of GDP),Valeur totale des exportations nationales incorporées dans les exportations des pays d'autres continents (% du PIB)
+WBInfDGE,Dynamic general equilibrium model-based (DGE) estimates of informal output (% of GDP),Estimations dynamiques basées sur un modèle d'équilibre général (DGE) de la production informelle (% du PIB)
+WBInfMIMIC,Multiple indicators multiple causes model-based (MIMIC) estimates of informal output (% of GDP),Estimations de la production informelle basées sur un modèle à causes multiples et à indicateurs multiples (MIMIC) (% du PIB)
+WBInfCmpInf,Percent of firms competing against unregistered or informal firms,Pourcentage d'entreprises en concurrence avec des entreprises non enregistrées ou informelles
+WBInfFrmReg,Percent of firms formally registered when they started operations in the country,Pourcentage d'entreprises officiellement enregistrées lorsqu'elles ont démarré leurs activités dans le pays
+WBInfCmpCnst,Percent of firms identifying practices of competitors in the informal sector as a constraint,Pourcentage d'entreprises identifiant les pratiques des concurrents dans le secteur informel comme une contrainte
+EmpDetTot,"Total workers, both sexes","Total des travailleurs, les deux sexes"
+EmpDetAgr,"Total workers - agriculture, forestry and fishing","Total des travailleurs - agriculture, foresterie et pêche"
+EmpDetMng,Total workers - mining and quarrying,Total des travailleurs - mines et carrières
+EmpDetMan,Total workers - manufacturing,Total des travailleurs - secteur manufacturier
+EmpDetUtl,Total workers - utilities,Total des travailleurs - services publics
+EmpDetCon,Total workers - construction,Total des travailleurs - construction
+EmpDetSal,Total workers - wholesale and retail trade,Total des travailleurs - commerce de gros et de détail
+EmpDetTrn,"Total workers - transport, storage and communicatoin","Total des travailleurs - transport, stockage et communication"
+EmpDetAcc,Total workers - accomodation and food service,Total des travailleurs - hébergement et restauration
+EmpDetFin,Total workers - finance and insurance,Total des travailleurs - finance et assurance
+EmpDetRel,Total workers - real estate and business administration,Total des travailleurs - immobilier et administration des affaires
+EmpDetPub,"Total workers - public administration, defence and social security","Total des travailleurs - administration publique, défense et sécurité sociale"
+EmpDetEdu,Total workers - education,Total des travailleurs - éducation
+EmpDetHlt,Total workers - health and social work,Total des travailleurs - santé et travail social
+EmpDetOth,Total workers - other services,Total des travailleurs - autres services
+EmpDetFemTot,"Total workers, female","Total des travailleurs, femmes"
+EmpDetFemAgr,"Female workers - agriculture, forestry and fishing","Travailleuses - agriculture, foresterie et pêche"
+EmpDetFemMng,Female workers - mining and quarrying,Travailleuses - mines et carrières
+EmpDetFemMan,Female workers - manufacturing,Travailleuses - secteur manufacturier
+EmpDetFemUtl,Female workers - utilities,Travailleuses - services publics
+EmpDetFemCon,Female workers - construction,Travailleuses - construction
+EmpDetFemSal,Female workers - wholesale and retail trade,Travailleuses - commerce de gros et de détail
+EmpDetFemTrn,"Female workers - transport, storage and communicatoin","Travailleuses - transport, stockage et communication"
+EmpDetFemAcc,Female workers - accomodation and food service,Travailleuses - hébergement et restauration
+EmpDetFemFin,Female workers - finance and insurance,Travailleuses - finance et assurance
+EmpDetFemRel,Female workers - real estate and business administration,Travailleuses - immobilier et administration des affaires
+EmpDetFemPub,"Female workers - public administration, defence and social security","Travailleuses - administration publique, défense et sécurité sociale"
+EmpDetFemEdu,Female workers - education,Travailleuses - éducation
+EmpDetFemHlt,Female workers - health and social work,Travailleuses - santé et travail social
+EmpDetFemOth,Female workers - other services,Travailleuses - autres services
+EmpDetMalTot,"Total workers, male","Total des travailleurs, hommes"
+EmpDetMalAgr,"Male workers - agriculture, forestry and fishing","Travailleurs masculins - agriculture, foresterie et pêche"
+EmpDetMalMng,Male workers - mining and quarrying,Travailleurs masculins - mines et carrières
+EmpDetMalMan,Male workers - manufacturing,Travailleurs masculins - secteur manufacturier
+EmpDetMalUtl,Male workers - utilities,Travailleurs masculins - services publics
+EmpDetMalCon,Male workers - construction,Travailleurs masculins - construction
+EmpDetMalSal,Male workers - wholesale and retail trade,Travailleurs masculins - commerce de gros et de détail
+EmpDetMalTrn,"Male workers - transport, storage and communicatoin","Travailleurs masculins - transport, stockage et communication"
+EmpDetMalAcc,Male workers - accomodation and food service,Travailleurs masculins - hébergement et restauration
+EmpDetMalFin,Male workers - finance and insurance,Travailleurs masculins - finance et assurance
+EmpDetMalRel,Male workers - real estate and business administration,Travailleurs masculins - immobilier et administration des affaires
+EmpDetMalPub,"Male workers - public administration, defence and social security","Travailleurs masculins - administration publique, défense et sécurité sociale"
+EmpDetMalEdu,Male workers - education,Travailleurs masculins - éducation
+EmpDetMalHlt,Male workers - health and social work,Travailleurs masculins - santé et travail social
+EmpDetMalOth,Male workers - other services,Travailleurs masculins - autres services
+EmpOccArmedF,Total people employed in armed forces occupations,Nombre total de personnes employées dans les forces armées
+EmpOccLegMan,"Total people employed as legislators, senior officials and managers","Nombre total de personnes employées comme législateurs, hauts fonctionnaires et cadres"
+EmpOccProfnl,Total people employed as professionals,Nombre total de personnes employées en tant que professionnels
+EmpOccTechns,Total people employed as technicians and associate professionals,Nombre total de personnes employées en tant que techniciens et professionnels associés
+EmpOccClerks,Total people employed as clerks,Nombre total de personnes employées comme employés de bureau
+EmpOccSrvSal,Total people employed as service and sales workers,Nombre total de personnes employées en tant que travailleurs des services et comme vendeurs
+EmpOccSklAgr,Total people employed as skilled agricultural and fishery workers,Nombre total de personnes employées comme travailleurs agricoles et de la pêche qualifiés
+EmpOccCrftTd,Total people employed as craft and related trades workers,Nombre total de personnes employées en tant qu'ouvriers de l'artisanat et des métiers connexes
+EmpOccPltMch,"Total people employed as plant and machine operators, and assemblers","Nombre total de personnes employées en tant qu'opérateurs d'usines et de machines, et assembleurs"
+EmpOccElemnt,Total people employed in elementary occupations,Nombre total de personnes employées dans des emplois élémentaires
+EmpOccNEC,Total people employed in occupations not elsewhere classified,Nombre total de personnes employées dans des professions non classées ailleurs
+EmpOccTotal,Total people employed in all occupations,Nombre total de personnes employées dans toutes les professions
+EmpOccSklLv1,Total people employed in occupations at low skill level (Level 1),Nombre total de personnes employées dans des professions à niveau de compétences faibles (niveau 1)
+EmpOccSklLv2,Total people employed in occupations at medium skill level (Level 2),Nombre total de personnes employées dans des professions à niveau de compétence intermédiaire (niveau 2)
+EmpOccSklLv3,Total people employed in occupations at high skill level (Level 3-4),Nombre total de personnes employées dans des professions à niveau de compétence élevé (niveau 3-4)
+EmpOccSklNEC,Total people employed in occupations at skill levels not elsewhere classified,Nombre total de personnes employées dans des professions à niveaux de compétence non classés ailleurs
+EmpOccSklTot,Total people employed in occupations at all skill levels,Nombre total de personnes employées dans des professions à tous les niveaux de compétence
+EmpOccElemntPct,Percentage of employees working in elementary occupations,Pourcentage d’employés travaillant dans des emplois élémentaires
+EmpOccArmedFPct,Percentage of employees in armed forces occupations,Pourcentage d’employés dans les forces armées
+EmpOccNECPct,Percentage of employees working in occupations not elsewhere classified,Pourcentage d’employés travaillant dans des professions non classées ailleurs
+EmpOccLegManPct,"Percentage of employees working as legislators, senior officials and managers","Pourcentage d’employés travaillant comme législateurs, hauts fonctionnaires et cadres"
+EmpOccProfnlPct,Percentage of employees working as professionals,Pourcentage d'employés travaillant en tant que professionnels
+EmpOccTechnsPct,Percentage of employees working as technicians and associate professionals,Pourcentage d'employés travaillant comme techniciens et professionnels associés
+EmpOccClerksPct,Percentage of employees working as clerks,Pourcentage d’employés travaillant comme employés de bureau
+EmpOccSrvSalPct,Percentage of employees working as service and sales workers,Pourcentage d'employés travaillant en tant qu'employés de service et comme vendeurs dans les magasins et les marchés
+EmpOccSklAgrPct,Percentage of employees working as skilled agricultural and fishery workers,Pourcentage d’employés travaillant comme travailleurs agricoles et de la pêche qualifiés
+EmpOccCrftTdPct,Percentage of employees working as craft and related trades workers,Pourcentage de salariés exerçant une activité artisanale et des métiers connexes
+EmpOccPltMchPct,"Percentage of employees working as plant and machine operators, and assemblers","Pourcentage d'employés travaillant comme opérateurs et assembleurs d'installations, et de machines"
+EmpOccSklLv1Pct,Percentage of employees working in occupations at low skill level (Level 1),Pourcentage d'employés exerçant des professions à niveau de compétences faibles (niveau 1)
+EmpOccSklLv2Pct,Percentage of employees working in occupations at medium skill level (Level 2),Pourcentage d'employés exerçant des professions à niveau de compétence intermédiaire (niveau 2)
+EmpOccSklLv3Pct,Percentage of employees working in occupations at high skill level (Level 3-4),Pourcentage d'employés travaillant dans des professions à niveau de compétence élevé (niveau 3-4)
+EmpOccSklNECPct,Percentage of employees working in occupations at skill levels not elsewhere classified,Pourcentage d’employés travaillant dans des professions à niveaux de compétence non classés ailleurs
+SklLowOccAgFr,"Number of workers with low skill in agriculture, forestry and fishing","Nombre de travailleurs peu qualifiés dans l'agriculture, la foresterie et la pêche"
+SklLowOccMnQr,Number of workers with low skill in mining and quarrying,Nombre de travailleurs peu qualifiés dans les mines et carrières
+SklLowOccManu,Number of workers with low skill in manufacturing,Nombre de travailleurs peu qualifiés dans le secteur manufacturier
+SklLowOccElGs,"Number of workers with low skill in electricity, gas, heating and cooling","Nombre de travailleurs peu qualifiés dans les domaines de l'électricité, du gaz, du chauffage et du refroidissement"
+SklLowOccWtSw,"Number of workers with low skill in water supply, waste management",Nombre de travailleurs peu qualifiés dans l'approvisionnement en eau et la gestion des déchets
+SklLowOccCnst,Number of workers with low skill in construction,Nombre de travailleurs peu qualifiés dans la construction
+SklLowOccWhRt,"Number of workers with low skill in wholesale and retail trade, MV repair","Nombre de travailleurs peu qualifiés dans le commerce de gros et de détail, réparation de véhicules à moteur"
+SklLowOccTrSt,Number of workers with low skill in transportation and storage,Nombre de travailleurs peu qualifiés en transport et entreposage
+SklLowOccAcFd,Number of workers with low skill in accommodation and food services,Nombre de travailleurs peu qualifiés dans les services d'hébergement et de restauration
+SklLowOccICTs,Number of workers with low skill in information and communication,Nombre de travailleurs peu qualifiés en information et communication
+SklLowOccFnIn,Number of workers with low skill in finance and insurances,Nombre de travailleurs peu qualifiés en finance et assurances
+SklLowOccRlEs,Number of workers with low skill in real estate activities,Nombre de travailleurs peu qualifiés dans les activités immobilières
+SklLowOccPrSc,"Number of workers with low skill in professional, scientific and technical","Nombre de travailleurs peu qualifiés dans les domaines professionnel, scientifique et technique"
+SklLowOccAdSp,Number of workers with low skill in administrative and support,Nombre de travailleurs peu qualifiés en matière d'administration et de soutien
+SklLowOccPbSS,"Number of workers with low skill in public administration, defence, and social security","Nombre de travailleurs peu qualifiés dans l'administration publique, la défense et la sécurité sociale"
+SklLowOccEduc,Number of workers with low skill in education,Nombre de travailleurs peu qualifiés en matière d'éducation
+SklLowOccHlSc,Number of workers with low skill in health and social work,Nombre de travailleurs peu qualifiés dans les domaines de la santé et du travail social
+SklLowOccArEn,"Number of workers with low skill in arts, entertainment and recreation","Nombre de travailleurs peu qualifiés dans les domaines des arts, du divertissement et des loisirs"
+SklLowOccOthr,Number of workers with low skill in other services,Nombre de travailleurs peu qualifiés dans d'autres services
+SklLowOccHHDS,Number of workers with low skill in households,Nombre de travailleurs peu qualifiés dans les ménages
+SklLowOccExTr,Number of workers with low skill in extraterritorial organisations and bodies,Nombre de travailleurs peu qualifiés dans les organisations et organismes extraterritoriaux
+SklLowOccTotl,Number of workers with low skill in all activities,Nombre de travailleurs peu qualifiés dans toutes les activités
+SklLowOccNECL,Number of workers with low skill in activities not elsewhere classified,Nombre de travailleurs low qualifiés non classés ailleurs
+SklMedOccAgFr,"Number of workers with medium skill in agriculture, forestry and fishing","Nombre de travailleurs moyennement qualifiés dans l'agriculture, la foresterie et la pêche"
+SklMedOccMnQr,Number of workers with medium skill in mining and quarrying,Nombre de travailleurs moyennement qualifiés dans les mines et carrières
+SklMedOccManu,Number of workers with medium skill in manufacturing,Nombre de travailleurs moyennement qualifiés dans le secteur manufacturier
+SklMedOccElGs,"Number of workers with medium skill in electricity, gas, heating and cooling","Nombre de travailleurs moyennement qualifiés dans les domaines de l'électricité, du gaz, du chauffage et du refroidissement"
+SklMedOccWtSw,"Number of workers with medium skill in water supply, waste management",Nombre de travailleurs moyennement qualifiés dans l'approvisionnement en eau et la gestion des déchets
+SklMedOccCnst,Number of workers with medium skill in construction,Nombre de travailleurs moyennement qualifiés dans la construction
+SklMedOccWhRt,"Number of workers with medium skill in wholesale and retail trade, MV repair","Nombre de travailleurs moyennement qualifiés dans le commerce de gros et de détail, réparation de véhicules à moteur"
+SklMedOccTrSt,Number of workers with medium skill in transportation and storage,Nombre de travailleurs moyennement qualifiés en transport et entreposage
+SklMedOccAcFd,Number of workers with medium skill in accommodation and food services,Nombre de travailleurs moyennement qualifiés dans les services d'hébergement et de restauration
+SklMedOccICTs,Number of workers with medium skill in information and communication,Nombre de travailleurs moyennement qualifiés en information et communication
+SklMedOccFnIn,Number of workers with medium skill in finance and insurances,Nombre de travailleurs moyennement qualifiés en finance et assurances
+SklMedOccRlEs,Number of workers with medium skill in real estate activities,Nombre de travailleurs moyennement qualifiés dans les activités immobilières
+SklMedOccPrSc,"Number of workers with medium skill in professional, scientific and technical","Nombre de travailleurs moyennement qualifiés dans les domaines professionnel, scientifique et technique"
+SklMedOccAdSp,Number of workers with medium skill in administrative and support,Nombre de travailleurs ayant des compétences moyennes en administration et en soutien
+SklMedOccPbSS,"Number of workers with medium skill in public administration, defence, and social security","Nombre de travailleurs moyennement qualifiés dans l'administration publique, la défense et la sécurité sociale"
+SklMedOccEduc,Number of workers with medium skill in education,Nombre de travailleurs moyennement qualifiés en éducation
+SklMedOccHlSc,Number of workers with medium skill in health and social work,Nombre de travailleurs moyennement qualifiés dans le domaine de la santé et du travail social
+SklMedOccArEn,"Number of workers with medium skill in arts, entertainment and recreation","Nombre de travailleurs moyennement qualifiés dans les arts, le divertissement et les loisirs"
+SklMedOccOthr,Number of workers with medium skill in other services,Nombre de travailleurs moyennement qualifiés dans d'autres services
+SklMedOccHHDS,Number of workers with medium skill in households,Nombre de travailleurs moyennement qualifiés dans les ménages
+SklMedOccExTr,Number of workers with medium skill in extraterritorial organisations and bodies,Nombre de travailleurs moyennement qualifiés dans les organisations et organismes extraterritoriaux
+SklMedOccTotl,Number of workers with medium skill in all activities,Nombre de travailleurs moyennement qualifiés dans toutes les activités
+SklMedOccNECL,Number of workers with medium skill in activities not elsewhere classified,Nombre de travailleurs moyennement qualifiés non classés ailleurs
+SklHghOccAgFr,"Number of workers with high skill in agriculture, forestry and fishing","Nombre de travailleurs hautement qualifiés dans les domaines de l'agriculture, de la foresterie et de la pêche"
+SklHghOccMnQr,Number of workers with high skill in mining and quarrying,Nombre de travailleurs hautement qualifiés dans les mines et carrières
+SklHghOccManu,Number of workers with high skill in manufacturing,Nombre de travailleurs hautement qualifiés dans le secteur manufacturier
+SklHghOccElGs,"Number of workers with high skill in electricity, gas, heating and cooling","Nombre de travailleurs hautement qualifiés dans les domaines de l'électricité, du gaz, du chauffage et du refroidissement"
+SklHghOccWtSw,"Number of workers with high skill in water supply, waste management",Nombre de travailleurs hautement qualifiés dans l'approvisionnement en eau et la gestion des déchets
+SklHghOccCnst,Number of workers with high skill in construction,Nombre de travailleurs hautement qualifiés dans la construction
+SklHghOccWhRt,"Number of workers with high skill in wholesale and retail trade, MV repair","Nombre de travailleurs hautement qualifiés dans le commerce de gros et de détail, la réparation de véhicules à moteur"
+SklHghOccTrSt,Number of workers with high skill in transportation and storage,Nombre de travailleurs hautement qualifiés en transport et entreposage
+SklHghOccAcFd,Number of workers with high skill in accommodation and food services,Nombre de travailleurs hautement qualifiés dans les services d'hébergement et de restauration
+SklHghOccICTs,Number of workers with high skill in information and communication,Nombre de travailleurs hautement qualifiés en information et communication
+SklHghOccFnIn,Number of workers with high skill in finance and insurances,Nombre de travailleurs hautement qualifiés en finance et assurances
+SklHghOccRlEs,Number of workers with high skill in real estate activities,Nombre de travailleurs hautement qualifiés dans les activités immobilières
+SklHghOccPrSc,"Number of workers with high skill in professional, scientific and technical","Nombre de travailleurs hautement qualifiés dans les domaines professionnel, scientifique et technique"
+SklHghOccAdSp,Number of workers with high skill in administrative and support,Nombre de travailleurs hautement qualifiés en matière d'administration et de soutien
+SklHghOccPbSS,"Number of workers with high skill in public administration, defence, and social security","Nombre de travailleurs hautement qualifiés dans l'administration publique, la défense et la sécurité sociale"
+SklHghOccEduc,Number of workers with high skill in education,Nombre de travailleurs hautement qualifiés en éducation
+SklHghOccHlSc,Number of workers with high skill in health and social work,Nombre de travailleurs hautement qualifiés dans les domaines de la santé et du travail social
+SklHghOccArEn,"Number of workers with high skill in arts, entertainment and recreation","Nombre de travailleurs hautement qualifiés dans les domaines de l'art, du divertissement et des loisirs"
+SklHghOccOthr,Number of workers with high skill in other services,Nombre de travailleurs hautement qualifiés dans d'autres services
+SklHghOccHHDS,Number of workers with high skill in households,Nombre de travailleurs hautement qualifiés dans les ménages
+SklHghOccExTr,Number of workers with high skill in extraterritorial organisations and bodies,Nombre de travailleurs hautement qualifiés dans les organisations et organismes extraterritoriaux
+SklHghOccTotl,Number of workers with high skill in all activities,Nombre de travailleurs hautement qualifiés dans toutes les activités
+SklHghOccNECL,Number of workers with high skill in activities not elsewhere classified,Nombre de travailleurs hautement qualifiés non classés ailleurs
+EduMMAllMtcFemPct,Percentage of workers with education matching occupation requirements - females,Pourcentage de travailleurs dont la formation correspond aux exigences de l’emploi - femmes
+EduMMAllMtcMalPct,Percentage of workers with education matching occupation requirements - males,Pourcentage de travailleurs dont la formation correspond aux exigences de l’emploi - hommes
+EduMMAllMtcTotPct,Percentage of workers with education matching occupation requirements - both sexes,Pourcentage de travailleurs dont la formation correspond aux exigences de l’emploi - les deux sexes
+EduMMAllOvrFemPct,Percentage of workers with education above occupation requirements - females,Pourcentage de travailleurs dont la formation dépasse les exigences de l’emploi - femmes
+EduMMAllOvrMalPct,Percentage of workers with education above occupation requirements - males,Pourcentage de travailleurs dont la formation dépasse les exigences de l’emploi - hommes
+EduMMAllOvrTotPct,Percentage of workers with education above occupation requirements - both sexes,Pourcentage de travailleurs dont la formation dépasse les exigences de l’emploi - les deux sexes
+EduMMAllUndFemPct,Percentage of workers with education under occupation requirements - females,Pourcentage de travailleurs dont la formation est inférieure aux exigences de l’emploi - femmes
+EduMMAllUndMalPct,Percentage of workers with education under occupation requirements - males,Pourcentage de travailleurs dont la formation est inférieure aux exigences de l’emploi - hommes
+EduMMAllUndTotPct,Percentage of workers with education under occupation requirements - both sexes,Pourcentage de travailleurs dont la formation est inférieure aux exigences de l’emploi - les deux sexes
+EduMMEmpMtcFemPct,Percentage of employees with education matching occupation requirements - females,Pourcentage d’employés dont la formation correspond aux exigences de l’emploi - femmes
+EduMMEmpMtcMalPct,Percentage of employees with education matching occupation requirements - males,Pourcentage d’employés dont la formation correspond aux exigences de l’emploi - hommes
+EduMMEmpMtcTotPct,Percentage of employees with education matching occupation requirements - both sexes,Pourcentage d’employés dont la formation correspond aux exigences de l’emploi - les deux sexes
+EduMMEmpOvrFemPct,Percentage of employees with education above occupation requirements - females,Pourcentage d’employés dont la formation dépasse les exigences de l’emploi - femmes
+EduMMEmpOvrMalPct,Percentage of employees with education above occupation requirements - males,Pourcentage d’employés dont la formation dépasse les exigences de l’emploi - hommes
+EduMMEmpOvrTotPct,Percentage of employees with education above occupation requirements - both sexes,Pourcentage d’employés dont la formation dépasse les exigences de l’emploi - les deux sexes
+EduMMEmpUndFemPct,Percentage of employees with education under occupation requirements - females,Pourcentage d’employés dont la formation est inférieure aux exigences de l’emploi - femmes
+EduMMEmpUndMalPct,Percentage of employees with education under occupation requirements - males,Pourcentage d’employés dont la formation est inférieure aux exigences de l’emploi - hommes
+EduMMEmpUndTotPct,Percentage of employees with education under occupation requirements - both sexes,Pourcentage d’employés dont la formation est inférieure aux exigences de l’emploi - les deux sexes
+EduMMSlfMtcFemPct,Percentage of self-employed workers with education matching occupation requirements - females,Pourcentage de travailleurs indépendants dont la formation correspond aux exigences de l’emploi - femmes
+EduMMSlfMtcMalPct,Percentage of self-employed workers with education matching occupation requirements - males,Pourcentage de travailleurs indépendants dont la formation correspond aux exigences de l’emploi - hommes
+EduMMSlfMtcTotPct,Percentage of self-employed workers with education matching occupation requirements - both sexes,Pourcentage de travailleurs indépendants dont la formation correspond aux exigences de l’emploi - les deux sexes
+EduMMSlfOvrFemPct,Percentage of self-employed workers with education above occupation requirements - females,Pourcentage de travailleurs indépendants dont la formation dépasse les exigences de l’emploi - femmes
+EduMMSlfOvrMalPct,Percentage of self-employed workers with education above occupation requirements - males,Pourcentage de travailleurs indépendants dont la formation dépasse les exigences de l’emploi - hommes
+EduMMSlfOvrTotPct,Percentage of self-employed workers with education above occupation requirements - both sexes,Pourcentage de travailleurs indépendants dont la formation dépasse les exigences de l’emploi - les deux sexes
+EduMMSlfUndFemPct,Percentage of self-employed workers with education under occupation requirements - females,Pourcentage de travailleurs indépendants dont la formation est inférieure aux exigences de l’emploi - femmes
+EduMMSlfUndMalPct,Percentage of self-employed workers with education under occupation requirements - males,Pourcentage de travailleurs indépendants dont la formation est inférieure aux exigences de l’emploi - hommes
+EduMMSlfUndTotPct,Percentage of self-employed workers with education under occupation requirements - both sexes,Pourcentage de travailleurs indépendants dont la formation est inférieure aux exigences de l’emploi - les deux sexes
+YrsSch2024,"Mean years of education, people aged 20-24","Nombre moyen d'années d'études, personnes âgées de 20 à 24 ans"
+YrsSch2024Men,"Mean years of education, men aged 20-24","Nombre moyen d'années d'études, hommes âgés de 20 à 24 ans"
+YrsSch2024Fem,"Mean years of education, women aged 20-24","Nombre moyen d'années d'études, femmes âgées de 20 à 24 ans"
+YrsSch2024Rur,"Mean years of education, people aged 20-24, rural","Nombre moyen d'années d'études, personnes âgées de 20 à 24 ans, en zone rurale"
+YrsSch2024Urb,"Mean years of education, people aged 20-24, urban","Nombre moyen d'années d'études, personnes âgées de 20 à 24 ans, en zone urbaine"
+LrnAchLwScMth,Percentage of adolescents in lower secondary school achieving math proficiency,Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant les mathématiques
+LrnAchLwScMthMal,"Percentage of adolescents in lower secondary school achieving math proficiency, males","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant les mathématiques, hommes"
+LrnAchLwScMthFem,"Percentage of adolescents in lower secondary school achieving math proficiency, females","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant les mathématiques, femmes"
+LrnAchLwScMthRur,"Percentage of adolescents in lower secondary school achieving math proficiency, rural","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant les mathématiques, en zone rurale"
+LrnAchLwScMthUrb,"Percentage of adolescents in lower secondary school achieving math proficiency, urban","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant les mathématiques, en zone urbaine"
+LrnAchLwScRdg,Percentage of adolescents in lower secondary school achieving reading proficiency,Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant la lecture
+LrnAchLwScRdgMal,"Percentage of adolescents in lower secondary school achieving reading proficiency, males","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant la lecture, hommes"
+LrnAchLwScRdgFem,"Percentage of adolescents in lower secondary school achieving reading proficiency, females","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant la lecture, femmes"
+LrnAchLwScRdgRur,"Percentage of adolescents in lower secondary school achieving reading proficiency, rural","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant la lecture, en zone rurale"
+LrnAchLwScRdgUrb,"Percentage of adolescents in lower secondary school achieving reading proficiency, urban","Pourcentage d'adolescents du premier cycle de l'enseignement secondaire maîtrisant la lecture, en zone urbaine"
+LrnAchUpScMth,Percentage of adolescents in upper secondary school achieving math proficiency,Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant les mathématiques
+LrnAchUpScRdg,Percentage of adolescents in upper secondary school achieving reading proficiency,Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant la lecture
+LrnAchUpScMthMal,"Percentage of adolescents in upper secondary school achieving math proficiency, males","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant les mathématiques, hommes"
+LrnAchUpScRdgMal,"Percentage of adolescents in upper secondary school achieving reading proficiency, males","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant la lecture, hommes"
+LrnAchUpScMthFem,"Percentage of adolescents in upper secondary school achieving math proficiency, females","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant les mathématiques, femmes"
+LrnAchUpScRdgFem,"Percentage of adolescents in upper secondary school achieving reading proficiency, females","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant la lecture, femmes"
+LrnAchUpScMthRur,"Percentage of adolescents in upper secondary school achieving math proficiency, rural","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant les mathématiques, en zone rurale"
+LrnAchUpScRdgRur,"Percentage of adolescents in upper secondary school achieving reading proficiency, rural","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant la lecture, en zone rurale"
+LrnAchUpScMthUrb,"Percentage of adolescents in upper secondary school achieving math proficiency, urban","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant les mathématiques, en zone urbaine"
+LrnAchUpScRdgUrb,"Percentage of adolescents in upper secondary school achieving reading proficiency, urban","Pourcentage d'adolescents du deuxième cycle de l'enseignement secondaire maîtrisant la lecture, en zone urbaine"
+EmigAURgEduNnTt,"Emigrants within same AUC region aged 15+, no tertiary education","Émigrants de la même région de la CUA âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+EmigAURgEduTert,"Emigrants within same AUC region aged 15+, with tertiary education","Émigrants de la même région de la CUA âgés de 15 ans et plus, ayant fait des études supérieures"
+EmigContEduNnTt,"Emigrants within same continent aged 15+, no tertiary education","Émigrants au sein du même continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+EmigContEduTert,"Emigrants within same continent aged 15+, with tertiary education","Émigrants au sein du même continent âgés de 15 ans et plus, ayant fait des études supérieures"
+EmigExCtEduNnTt,"Emigrants outside continent aged 15+, no tertiary education","Émigrants hors continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+EmigExCtEduTert,"Emigrants outside continent aged 15+, with tertiary education","Émigrants hors continent âgés de 15 ans et plus, ayant fait des études supérieures"
+ImmigAURgEduNnTt,"Immigrants from same AUC region aged 15+, no tertiary education","Immigrants de la même région de la CUA âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+ImmigAURgEduTert,"Immigrants from same AUC region aged 15+, with tertiary education","Immigrants de la même région de la CUA âgés de 15 ans et plus, ayant fait des études supérieures"
+ImmigContEduNnTt,"Immigrants from same continent aged 15+, no tertiary education","Immigrants du même continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+ImmigContEduTert,"Immigrants from same continent aged 15+, with tertiary education","Immigrants du même continent âgés de 15 ans et plus, ayant fait des études supérieures"
+ImmigExCtEduNnTt,"Immigrants from outside continent aged 15+, no tertiary education","Immigrants hors continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+ImmigExCtEduTert,"Immigrants from outside continent aged 15+, with tertiary education","Immigrants hors continent âgés de 15 ans et plus, ayant fait des études supérieures"
+EmigAURgEduNnTt10YrInc,"Ten-year increase in emigrants within same AUC region aged 15+, no tertiary education","Augmentation sur dix ans du nombre d'émigrants au sein de la même région de la CUA âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+EmigAURgEduTert10YrInc,"Ten-year increase in emigrants within same AUC region aged 15+, with tertiary education","Augmentation sur dix ans du nombre d'émigrants au sein de la même région de la CUA âgés de 15 ans et plus, ayant fait des études supérieures"
+EmigContEduNnTt10YrInc,"Ten-year increase in emigrants within same continent aged 15+, no tertiary education","Augmentation sur dix ans du nombre d'émigrants au sein d'un même continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+EmigContEduTert10YrInc,"Ten-year increase in emigrants within same continent aged 15+, with tertiary education","Augmentation sur dix ans du nombre d'émigrants au sein d'un même continent âgés de 15 ans et plus, ayant fait des études supérieures"
+EmigExCtEduNnTt10YrInc,"Ten-year increase in emigrants outside continent aged 15+, no tertiary education","Augmentation sur dix ans des émigrants hors continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+EmigExCtEduTert10YrInc,"Ten-year increase in emigrants outside continent aged 15+, with tertiary education","Augmentation sur dix ans du nombre d’émigrants hors continent âgés de 15 ans et plus, ayant fait des études supérieures"
+ImmigAURgEduNnTt10YrInc,"Ten-year increase in immigrants from same AUC region aged 15+, no tertiary education","Augmentation sur dix ans du nombre d'immigrants de la même région de la CUA âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+ImmigAURgEduTert10YrInc,"Ten-year increase in immigrants from same AUC region aged 15+, with tertiary education","Augmentation sur dix ans du nombre d'immigrants de la même région de la CUA âgés de 15 ans et plus, ayant fait des études supérieures"
+ImmigContEduNnTt10YrInc,"Ten-year increase in immigrants from same continent aged 15+, no tertiary education","Augmentation sur dix ans du nombre d'immigrés du même continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+ImmigContEduTert10YrInc,"Ten-year increase in immigrants from same continent aged 15+, with tertiary education","Augmentation sur dix ans du nombre d'immigrants du même continent âgés de 15 ans et plus, ayant fait des études supérieures"
+ImmigExCtEduNnTt10YrInc,"Ten-year increase in immigrants from outside continent aged 15+, no tertiary education","Augmentation sur dix ans du nombre d'immigrés hors continent âgés de 15 ans et plus, n'ayant pas fait d'études supérieures"
+ImmigExCtEduTert10YrInc,"Ten-year increase in immigrants from outside continent aged 15+, with tertiary education","Augmentation sur dix ans du nombre d’immigrés hors continent âgés de 15 ans et plus, ayant fait des études supérieures"
+WittMedUnder15,"Population aged under 15, Medium Scenario (SSP2)","Population âgée de moins de 15 ans, Scénario moyen (SSP2)"
+WittMedLowEd15PL,Percentage of population 15+ with less than primary education (medium scenario),Pourcentage de la population de 15 ans et plus n'ayant pas atteint le niveau primaire (scénario moyen)
+WittMedPrim15PL,Percentage of population 15+ with primary but not secondary education (medium scenario),Pourcentage de la population de 15 ans et plus ayant une éducation primaire mais pas secondaire (scénario moyen)
+WittMedScndPL15PL,Percentage of population 15+ with at least secondary education (medium scenario),Pourcentage de la population de 15 ans et plus ayant au moins une éducation secondaire (scénario moyen)
+WittMedAllEd15PL,"Total population 15+, Medium Scenario (SSP2)","Population totale 15+, Scénario moyen (SSP2)"
+WittMedTotalPop,"Total population, Medium Scenario (SSP2)","Population totale, Scénario moyen (SSP2)"
+WittAcclUnder15,"Population aged under 15, Rapid Development (SSP1)","Population âgée de moins de 15 ans, Développement rapide (SSP1)"
+WittAcclLowEd15PL,Percentage of population 15+ with less than primary education (accelerated scenario),Pourcentage de la population âgée de 15 ans et plus n'ayant pas terminé l'enseignement primaire (scénario accéléré)
+WittAcclPrim15PL,Percentage of population 15+ with primary but not secondary education (accelerated scenario),Pourcentage de la population âgée de 15 ans et plus ayant une éducation primaire mais pas secondaire (scénario accéléré)
+WittAcclScndPL15PL,Percentage of population 15+ with at least secondary education (accelerated scenario),Pourcentage de la population âgée de 15 ans et plus ayant au moins une éducation secondaire (scénario accéléré)
+WittAcclAllEd15PL,"Total population 15+, Rapid Development (SSP1)","Population totale 15+, Développement rapide (SSP1)"
+WittAcclTotalPop,"Total population, Rapid Development (SSP1)","Population totale, Développement rapide (SSP1)"
+WittMedLowEd1529,Percentage of population aged 15-29 with less than primary education (medium scenario),Population âgée de 15 à 29 ans n'ayant pas atteint le niveau primaire (scénario moyen)
+WittMedPrim1529,Percentage of population aged 15-29 with primary but not secondary education (medium scenario),Population âgée de 15 à 29 ans ayant une éducation primaire mais pas secondaire (scénario moyen)
+WittMedScndPL1529,Percentage of population aged 15-29 with at least secondary education (medium scenario),Population âgée de 15 à 29 ans ayant au moins une éducation secondaire (scénario moyen)
+WittMedAllEd1529,"Total population aged 15-29, Medium Scenario (SSP2)","Population totale âgée de 15-29 ans, Scénario moyen (SSP2)"
+WittMedAllEd30PL,"Total population 30+, Medium Scenario (SSP2)","Population totale 30+, Scénario moyen (SSP2)"
+WittAcclLowEd1529,Percentage of population aged 15-29 with less than primary education (accelerated scenario),Population âgée de 15 à 29 ans n'ayant pas atteint le niveau primaire (scénario accéléré)
+WittAcclPrim1529,Percentage of population aged 15-29 with primary but not secondary education (accelerated scenario),Population âgée de 15 à 29 ans ayant une éducation primaire mais pas secondaire (scénario accéléré)
+WittAcclScndPL1529,Percentage of population aged 15-29 with at least secondary education (accelerated scenario),Population âgée de 15 à 29 ans ayant au moins une éducation secondaire (scénario accéléré)
+WittAcclAllEd1529,"Total population aged 15-29, Rapid Development (SSP1)","Population totale âgée de 15-29 ans, Développement rapide (SSP1)"
+WittAcclAllEd30PL,"Total population 30+, Rapid Development (SSP1)","Population totale 30+, Développement rapide (SSP1)"
+PPPPC,GDP in purchasing power parity (PPP) dollars per capita,PIB en parité de pouvoir d'achat (PPA) en dollars US par habitant
+VulnEmps,Total workers aged 15+ in vulnerable employment,Total des travailleurs âgés de 15 ans et plus ayant un emploi vulnérable
+IntntSubsPer100,Fixed(wired)-broadband subscriptions per 100 inhabitants,Abonnements Internet à haut débit fixe
+IntntUsePct,Percentage of the population using the Internet,Pourcentage de la population utilisant l'Internet
+MobileSubsPer100,Mobile-cellular telephone subscriptions per 100 inhabitants,Abonnements téléphone mobile et cellulaire par 100 habitants
+PhoneSubsPer100,Fixed-telephone subscriptions per 100 inhabitants,Abonnements téléphone fixe par 100 habitants
+MobBBSubsPer100,Mobile-broadband subscriptions per 100 inhabitants,Abonnements haut débit mobile pour 100 habitants
+IntlBBSpeedMBits,"International bandwidth, in megabytes per second","Bande passante internationale, en mégaoctets par seconde"
+GSMA4GCov,Percentage of inhabitants that live within 4G mobile technology coverage,Pourcentage d'habitants vivant dans une zone couverte par la technologie mobile 4G
+IntntAccss,Access to internet (% of population aged 15+),Accès à l'Internet (% de la population âgée de 15 ans et plus)
+OwnWSitTotFm,Percentage of firms of all sizes using their own website,Pourcentage d'entreprises de toutes tailles utilisant leur propre site Web
+EmailLrgFm,Percentage of large firms using email to interact with clients/suppliers,Pourcentage de grandes entreprises utilisant le courrier électronique pour interagir avec leurs clients / fournisseurs
+EmailMedFm,Percentage of medium-sized firms using email to interact with clients/suppliers,Pourcentage d'entreprises de taille moyenne utilisant le courrier électronique pour interagir avec leurs clients / fournisseurs
+EmailSmlFm,Percentage of small firms using email to interact with clients/suppliers,"Pourcentage de petites entreprises utilisant le courrier électronique pour interagir avec les clients / fournisseurs, mesure la plus récente"
+EmailTotFm,Percentage of firms of all sizes using email to interact with clients/suppliers,Pourcentage d'entreprises de toutes tailles utilisant le courrier électronique pour interagir avec les clients / fournisseurs
+ExpICTSrv,"Total exports of ICT services, millions of USD","Exportations totales de services TIC, millions de dollars US"
+ExpICTSrvPrp,Percentage of total trade in services,Pourcentage du commerce total des services
+ExpDigSrv,"Total exports of digital services, millions of USD","Exportations totales de services numériques, millions de dollars US"
+ExpDigSrvPrp,Exports of digital services as a % of total exports,Exportations de services numériques en % des exportations totales
+B2CDevInd,UNCTAD B2C E-commerce Index,Indice du commerce électronique B2C de la CNUCED
+NegativeAffect,Negative affect,Affect négatif
+PositiveAffect,Positive affect,Affect positif
+ExpProd1,Product category among 4-digit HS96 classification accounting for the highest share of total value of exports.,Catégorie de produits avec la plus grande part des exportations totales
+ExpProdPct1,% of exports ascribed to 4-digit HS96 product category with highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le plus haut niveau d'exportations
+ExpProd2,Product category among 4-digit HS96 classification accounting for the second highest share of total value of exports.,Catégorie de produits constituant la deuxième plus grande % des exportations totales
+ExpProdPct2,% of exports ascribed to 4-digit HS96 product category with the second highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le deuxième niveau d'exportations le plus élevé
+ExpProd3,Product category among 4-digit HS96 classification accounting for the third highest share of total value of exports.,Catégorie de produits constituant la troisième plus grande % des exportations totales
+ExpProdPct3,% of exports ascribed to 4-digit HS96 product category with the third highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le troisième niveau d'exportations le plus élevé
+ExpProd4,Product category among 4-digit HS96 classification accounting for the fourth highest share of total value of exports.,Catégorie de produits constituant la quatrième plus grande % des exportations totales
+ExpProdPct4,% of exports ascribed to 4-digit HS96 product category with the fourth highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le quatrième niveau d'exportations le plus élevé
+ExpProd5,Product category among 4-digit HS96 classification accounting for the fifth highest share of total value of exports.,Catégorie de produits constituant la cinquième plus grande % des exportations totales
+ExpProdPct5,% of exports ascribed to 4-digit HS96 product category with the fifth highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le cinquième niveau d'exportations le plus élevé
+IMFFDI,Foreign Direct Investment (FDI) inflows (millions of USD) - asset/liability IMF data,Entrées d’investissements directs étrangers (IDE) (millions de dollars US) - Données actif/passif du FMI
+PortfolioInFl,Portfolio investment inflows (millions of USD),Entrées des investissements de portefeuille (millions de dollars US)
+OtherInFl,Other investment inflows (millions of USD),"Autres entrées d'investissement, millions de dollars US"
+TotalFinInflows,Total financial inflows (millions of USD),Entrées financières totales (millions de dollars US)
+DILiabPGD,Direct investment liabilities (stock) as a % of GDP,Passifs d'investissement direct (stock) en % du PIB
+DIDebitPGD,Direct investment debit (income) as a % of GDP,Débit d'investissement direct (revenu) en % du PIB
+DIAssetPGD,Direct investment assets (stock) as a % of GDP,Actifs d'investissement direct (stock) en % du PIB
+DICredPGD,Direct investment credit (income) as a % of GDP,Crédit d'investissement direct (revenu) en % du PIB
+DILiabUSD,"Direct investment liabilities (stock), millions of USD","Passifs d'investissement direct (stock), millions de dollars US"
+DIDebitUSD,"Direct investment debit (income), millions of USD","Débit d'investissement direct (revenu), millions de dollars US"
+DIAssetUSD,"Direct investment assets (stock), millions of USD","Actifs d'investissement direct (stock), millions de dollars US"
+DICredUSD,"Direct investment credit (income), millions of USD","Crédit d'investissement direct (revenu), millions de dollars US"
+FrmGteEm,Farm gate emissions (kilotonnes of CO2 equivalent emissions),Émissions à la ferme (émissions en kilotonnes d'équivalent CO2)
+LndUseChgEm,Land Use change (kilotonnes of CO2 equivalent emissions),Changement d'utilisation des terres (kilotonnes d'émissions d'équivalent CO2)
+FrstLandEm,Forestland (kilotonnes of CO2 equivalent emissions),Terres forestières (kilotonnes d'émissions d'équivalent CO2)
+FrstFireEm,Forest fires (kilotonnes of CO2 equivalent emissions),Incendies de forêts (émissions en kilotonnes d'équivalent CO2)
+SynthFertEm,Synthetic Fertilizers (kilotonnes of CO2 equivalent emissions),Engrais synthétiques (émissions en kilotonnes d'équivalent CO2)
+OnFrmEngyEm,On-farm energy use (kilotonnes of CO2 equivalent emissions),Consommation d'énergie à la ferme (kilotonnes d'émissions d'équivalent CO2)
+AgricProd,Agricultural Production (millions of USD),Production agricole (millions de dollars US)
+AgFoodProd,Food Production (millions of USD),Production alimentaire (millions de dollars US)
+AgCropProd,Crops Production (millions of USD),Production des cultures (millions de dollars US)
+AgLvStProd,Livestock Production (millions of USD),Production de bétail (millions de dollars US)
+AgNnFdProd,Non food agricultural production (millions of USD),Production agricole non alimentaire (millions de dollars US)
+FoodSupp,Total food supply (kcal/capita/day),Approvisionnement alimentaire total (kcal / habitant / jour)
+WoodProd,Production of wood products (thousands of cubic meters),Production de produits du bois (milliers de mètres cubes)
+ChrPlpPprPrd,"Production of wood charcoal, pulp, paper, fibre and pellets (thousands of tonnes)","Production de charbon de bois, pâte à papier, papier, fibres et granulés (milliers de tonnes)"
+FertProdNit,Nutrient nitrogen production (thousands of tonnes),Production d'azote nutritif (milliers de tonnes)
+FertProdPho,Nutrient phosphate production (thousands of tonnes),Production de phosphate nutritif (milliers de tonnes)
+FertProdPot,Nutrient potash production (thousands of tonnes),Production de potasse nutritive (milliers de tonnes)
+FertUseNit,Agricultural use of nutrient nitrogen (thousands of tonnes),Utilisation agricole d'azote nutritif (milliers de tonnes)
+FertUsePho,Agricultural use of nutrient phosphate (thousands of tonnes),Utilisation agricole de phosphate nutritif (milliers de tonnes)
+FertUsePot,Agricultural use of nutrient potash (thousands of tonnes),Utilisation agricole de potasse nutritif (milliers de tonnes)
+EdExpGovGEM21,Government education expenditure as reported in Global Education Monitoring Report 2021/22 (% of GDP),Dépenses publiques en matière d'éducation telles que rapportées dans le Rapport mondial de suivi sur l'éducation 2021/22 (% du PIB)
+EdExpHHGEM21,Household education expenditure as reported in Global Education Monitoring Report 2021/22 (% of GDP),Dépenses d'éducation des ménages telles que rapportées dans le Rapport mondial de suivi sur l'éducation 2021/22 (% du PIB)
+GHGFCOMB,CO2 equivalent emissions (kt) of GHG from fuel combustion,Émissions d'équivalent CO2 (kt) de GES provenant de la combustion de carburant
+OTHEN,CO2 equivalent emissions (kt) from other energy industry own use,Émissions d'équivalent CO2 (kt) provenant de l'autoconsommation d'autres industries énergétiques
+TOTIND,CO2 equivalent emissions (kt) from manufacturing industries and construction,Émissions d'équivalent CO2 (kt) des industries manufacturières et de la construction
+TOTTRANS,CO2 equivalent emissions (kt) from transport,Émissions d'équivalent CO2 (kt) du transport
+RESIDENT,CO2 equivalent emissions (kt) from residential,Émissions d'équivalent CO2 (kt) du secteur résidentiel
+COMMPUB,CO2 equivalent emissions (kt) from commercial and public services,Émissions d'équivalent CO2 (kt) des services commerciaux et publics
+AGRICULT,CO2 equivalent emissions (kt) from agriculture/forestry,Émissions d'équivalent CO2 (kt) de l'agriculture/foresterie
+FISHING,CO2 equivalent emissions (kt) from fishing,Émissions d'équivalent CO2 (kt) de la pêche
+ONONSPEC,CO2 equivalent emissions (kt) from final consumption not elsewhere specified,Émissions d'équivalent CO2 (kt) de la consommation finale non spécifiée ailleurs
+ELECHEAT,CO2 equivalent emissions (kt) from electricity and heat production,Émissions d'équivalent CO2 (kt) de la production d'électricité et de chaleur
+ROAD,CO2 equivalent emissions (kt) from roads (included within transport),Émissions d'équivalent CO2 (kt) provenant des routes (incluses dans les transports)
+TrdCstDBord,"Average cost of trade with bordering countries as % of merchandise value, manufactured goods","Coût moyen du commerce avec les pays limitrophes en % de la valeur des marchandises, produits manufacturés"
+TrdCstDAUCReg,"Average cost of trade within the same AU region as % of merchandise value, manufactured goods","Coût moyen du commerce au sein de la même région de l'UA en % de la valeur des marchandises, produits manufacturés"
+TrdCstDCont,"Average cost of trade within continent as % of merchandise value, manufactured goods","Coût moyen du commerce à l'intérieur du continent en % de la valeur des marchandises, produits manufacturés"
+TrdCstDWLD,"Average cost of trade with all countries as % of merchandise value, manufactured goods","Coût moyen du commerce avec tous les pays en % de la valeur des marchandises, produits manufacturés"
+TrdCstDInternal,"Average cost of trade within country group as % of merchandise value, manufactured goods","Coût moyen du commerce au sein du groupe de pays en % de la valeur des marchandises, produits manufacturés"
+TrdCstDExternal,"Average cost of trade with countries outside the country group as % of merchandise value, manufactured goods","Coût moyen du commerce avec les pays hors du groupe de pays en % de la valeur des marchandises, produits manufacturés"
+TrdCstABBord,"Average cost of trade with bordering countries as % of merchandise value, primary goods","Coût moyen du commerce avec les pays limitrophes en % de la valeur des marchandises, produits primaires"
+TrdCstABAUCReg,"Average cost of trade within the same AU region as % of merchandise value, primary goods","Coût moyen du commerce au sein de la même région de l'UA en % de la valeur des marchandises, produits primaires"
+TrdCstABCont,"Average cost of trade within continent as % of merchandise value, primary goods","Coût moyen du commerce à l'intérieur du continent en % de la valeur des marchandises, produits primaires"
+TrdCstABWLD,"Average cost of trade with all countries as % of merchandise value, primary goods","Coût moyen du commerce avec tous les pays en % de la valeur des marchandises, produits primaires"
+TrdCstABInternal,"Average cost of trade within country group as % of merchandise value, primary goods","Coût moyen du commerce au sein du groupe de pays en % de la valeur des marchandises, produits primaires"
+TrdCstABExternal,"Average cost of trade with countries outside the country group as % of merchandise value, primary goods","Coût moyen du commerce avec les pays hors du groupe de pays en % de la valeur des marchandises, produits primaires"
+NatCapLD,"National wealth, agricultural lands (billions of US dollars)","Richesse nationale, terres agricoles  (milliards de dollars US)"
+NatCapCO,"National wealth, coal (billions of US dollars)","Richesse nationale, charbon  (milliards de dollars US)"
+NatCapCL,"National wealth, cropland (billions of US dollars)","Richesse nationale, terres cultivées (en milliards de dollars internationaux constants de 2018)"
+NatCapFS,"National wealth, fisheries (billions of US dollars)","Richesse nationale, pêche  (milliards de dollars US)"
+NatCapFE,"National wealth, forests - ecosystem services (billions of US dollars)","Richesse nationale, forêts - services écosystémiques  (milliards de dollars US)"
+NatCapFT,"National wealth, forests - timber (billions of US dollars)","Richesse nationale, forêts - bois  (milliards de dollars US)"
+NatCapEN,"National wealth, fossil fuel energy (billions of US dollars)","Richesse nationale, énergie fossile  (milliards de dollars US)"
+NatCapHC,"National wealth, human capital (billions of US dollars)","Richesse nationale, capital humain  (milliards de dollars US)"
+NatCapMA,"National wealth, mangroves (billions of US dollars)","Richesse nationale, mangroves  (milliards de dollars US)"
+NatCapMN,"National wealth, metals and minerals (billions of US dollars)","Richesse nationale, métaux et minéraux (en milliards de dollars internationaux constants de 2018)"
+NatCapNK,"National wealth, natural capital (billions of US dollars)","Richesse nationale, capital naturel  (milliards de dollars US)"
+NatCapSS,"National wealth, natural capital - nonrenewable (billions of US dollars)","Richesse nationale, capital naturel - non renouvelable  (milliards de dollars US)"
+NatCapRN,"National wealth, natural capital - renewable (billions of US dollars)","Richesse nationale, capital naturel - renouvelable  (milliards de dollars US)"
+NatCapGS,"National wealth, natural gas (billions of US dollars)","Richesse nationale, gaz naturel  (milliards de dollars US)"
+NatCapFA,"National wealth, net foreign assets (billions of US dollars)","Richesse nationale, avoirs extérieurs nets (en milliards de dollars internationaux constants de 2018)"
+NatCapOL,"National wealth, oil (billions of US dollars)","Richesse nationale, pétrole  (milliards de dollars US)"
+NatCapPS,"National wealth, pastureland (billions of US dollars)","Richesse nationale, pâturages  (milliards de dollars US)"
+NatCapPK,"National wealth, produced capital (billions of US dollars)","Richesse nationale, capital produit (en milliards de dollars internationaux constants de 2018)"
+NatCapPA,"National wealth, protected areas (billions of US dollars)","Richesse nationale, aires protégées  (milliards de dollars US)"
+NatCapTW,"National wealth, total wealth (billions of US dollars)","Richesse nationale, richesse totale (en milliards de dollars internationaux constants de 2018)"
+EduMMAllMtcFem,Percentage of workers with education matching requirements - females,Pourcentage de travailleurs dont l'éducation correspond aux exigences professionnelles - femmes
+EduMMAllMtcMal,Percentage of workers with education matching requirements - males,Pourcentage de travailleurs dont l'éducation correspond aux exigences professionnelles - hommes
+EduMMAllMtcTot,Percentage of workers with education matching requirements - both sexes,Pourcentage de travailleurs dont l'éducation correspond aux exigences professionnelles - les deux sexes
+EduMMAllOvrFem,Percentage of workers with education above requirements - females,Pourcentage de travailleurs ayant un niveau d'éducation supérieur aux exigences professionnelles - femmes
+EduMMAllOvrMal,Percentage of workers with education above requirements - males,Pourcentage de travailleurs ayant un niveau d'éducation supérieur aux exigences professionnelles - hommes
+EduMMAllOvrTot,Percentage of workers with education above requirements - both sexes,Pourcentage de travailleurs ayant un niveau d'éducation supérieur aux exigences professionnelles - les deux sexes
+EduMMAllUndFem,Percentage of workers with education under requirements - females,Pourcentage de travailleurs ayant un niveau d'éducation inférieur aux exigences professionnelles - femmes
+EduMMAllUndMal,Percentage of workers with education under requirements - males,Pourcentage de travailleurs ayant un niveau d'éducation inférieur aux exigences professionnelles - hommes
+EduMMAllUndTot,Percentage of workers with education under requirements - both sexes,Pourcentage de travailleurs ayant un niveau d'éducation inférieur aux exigences professionnelles - les deux sexes
+EduMMEmpMtcFem,Percentage of employees with education matching requirements - females,Pourcentage d'employés dont l'éducation correspond aux exigences professionnelles - femmes
+EduMMEmpMtcMal,Percentage of employees with education matching requirements - males,Pourcentage d'employés dont l'éducation correspond aux exigences professionnelles - hommes
+EduMMEmpMtcTot,Percentage of employees with education matching requirements - both sexes,Pourcentage d'employés dont l'éducation correspond aux exigences professionnelles - les deux sexes
+EduMMEmpOvrFem,Percentage of employees with education above requirements - females,Pourcentage d'employés ayant un niveau d'éducation supérieur aux exigences de la profession - femmes
+EduMMEmpOvrMal,Percentage of employees with education above requirements - males,Pourcentage d'employés ayant un niveau d'éducation supérieur aux exigences professionnelles - hommes
+EduMMEmpOvrTot,Percentage of employees with education above requirements - both sexes,Pourcentage d'employés ayant un niveau d'éducation supérieur aux exigences professionnelles - hommes et femmes
+EduMMEmpUndFem,Percentage of employees with education under requirements - females,Pourcentage de salariés ayant un niveau d'éducation inférieur aux exigences professionnelles - femmes
+EduMMEmpUndMal,Percentage of employees with education under requirements - males,Pourcentage de salariés ayant un niveau d'éducation inférieur aux exigences professionnelles - hommes
+EduMMEmpUndTot,Percentage of employees with education under requirements - both sexes,Pourcentage de salariés ayant un niveau d'études inférieur aux exigences professionnelles - hommes et femmes
+EduMMSlfMtcFem,Percentage of self-employed workers with education matching requirements - females,Pourcentage de travailleurs indépendants ayant un niveau d'études correspondant aux exigences professionnelles - femmes
+EduMMSlfMtcMal,Percentage of self-employed workers with education matching requirements - males,Pourcentage de travailleurs indépendants ayant un niveau d'études correspondant aux exigences professionnelles - hommes
+EduMMSlfMtcTot,Percentage of self-employed workers with education matching requirements - both sexes,Pourcentage de travailleurs indépendants ayant un niveau d'études correspondant aux exigences professionnelles - les deux sexes
+EduMMSlfOvrFem,Percentage of self-employed workers with education above requirements - females,Pourcentage de travailleurs indépendants ayant un niveau d'éducation supérieur aux exigences professionnelles - femmes
+EduMMSlfOvrMal,Percentage of self-employed workers with education above requirements - males,Pourcentage de travailleurs indépendants ayant un niveau d'éducation supérieur aux exigences professionnelles - hommes
+EduMMSlfOvrTot,Percentage of self-employed workers with education above requirements - both sexes,Pourcentage de travailleurs indépendants ayant un niveau d'éducation supérieur aux exigences professionnelles - les deux sexes
+EduMMSlfUndFem,Percentage of self-employed workers with education under requirements - females,Pourcentage de travailleurs indépendants ayant un niveau d'éducation inférieur aux exigences professionnelles - femmes
+EduMMSlfUndMal,Percentage of self-employed workers with education under requirements - males,Pourcentage de travailleurs indépendants ayant un niveau d'éducation inférieur aux exigences professionnelles - hommes
+EduMMSlfUndTot,Percentage of self-employed workers with education under requirements - both sexes,Pourcentage de travailleurs indépendants ayant un niveau d'études inférieur aux exigences professionnelles - les deux sexes
+EmpOccManagr,Total people employed as managers,Nombre total de personnes employées en tant que directeur
+EmpOccClrSpp,Total people employed as clerical and support workers,Nombre total de personnes employées en tant qu'employés de bureau et personnel de soutien
+EmpOccElmAgr,"Total people employed in elementary occupations or as skilled agricultural, forestry or fishery workers","Total des personnes employées dans des professions élémentaires ou comme travailleurs qualifiés dans l'agriculture, la sylviculture ou la pêche"
+EmpOccManagrPct,Percentage of employees working as managers,Pourcentage d'employés travaillant en tant que directeur
+EmpOccClrSppPct,Percentage of employees working as clerical and support workers,Pourcentage d'employés travaillant en tant qu'employés de bureau et personnel de soutien
+EmpOccElmAgrPct,"Percentage of employees working in elementary occupations or as skilled agricultural, forestry or fishery workers","Pourcentage d'employées travaillant dans des professions élémentaires ou comme travailleurs qualifiés dans l'agriculture, la sylviculture ou la pêche"
+ExtDbtMtrty,Average maturity on new external debt commitments (years),Maturité moyenne des nouveaux engagements de dette extérieure (années)
+ExtDbtMtrtyOff,"Average maturity on new external debt commitments, official (years)","Maturité moyenne des nouveaux engagements de dette extérieure, officielle (années)"
+ExtDbtMtrtyPrv,"Average maturity on new external debt commitments, private (years)","Maturité moyenne des nouveaux engagements de dette extérieure, privée (années)"
